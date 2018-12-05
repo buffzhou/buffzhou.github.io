@@ -28,7 +28,7 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  "INnoVation"
+  "INnoVation".
 
 # A list of keywords for your blog
 keywords:              []
@@ -39,15 +39,22 @@ keywords:              []
 logo:                  /assets/icons/buff.jpg
 
 # This should be the same author as first entry in `_data/authors.yml`.
-author1:
-  name:              BUFF
-  email:             buffdemail@163.com
+author:
+  name:                BUFF
+  email:               buffdemail@163.com
+  picture: /assets/icons/buff.jpg
+  social:
+    github:           buffzhou
+    email:            buffdemail@163.com
+    rss:              http://news.ifeng.com/rss/
   # Used by `jekyll-seo-tag`:
-  github:          buffzhou
-  email:           buffdemail@163.com
-  rss:             http://news.ifeng.com/rss
-
+  # twitter:             <username>
+social:
+    email:   buffdemail@163.com
+    github:  https://github.com/buffzhou
+    rss:     http://news.ifeng.com/rss/
 # This text will appear in a `<small>` tag in the footer of every page.
+copyright:       BUFF  
   © 2018. All rights reserved.
 
 # Add links to the footer.
