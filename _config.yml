@@ -24,7 +24,7 @@ title:                 BUFF's Blog
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  "INnoVation".
+  "电子设计 无协技术部 网络队 日常".
 
 # A shorter description for the sidebar.
 tagline:               >
@@ -48,9 +48,7 @@ author1:
   rss:             http://news.ifeng.com/rss
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             >BUFF
   © 2018. All rights reserved.
-  Open `_config.yml` to edit this text.
 
 # Add links to the footer.
 # Typically you'll want to link to your impress, cookies or privacy policy, etc.
@@ -327,5 +325,3 @@ compress_html:
 
 sass:
   style:               compressed
-
-theme: jekyll-theme-minimal
