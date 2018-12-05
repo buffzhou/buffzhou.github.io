@@ -15,8 +15,8 @@ permalink: /docs/
 **小贴士**: 尽管本手册想要做到新手友好，但是作为一名Jekyll(一种静态网页，也就是Hydejack用的)的用户，本手册假设您熟练地运行程序脚本和编辑文本。
 {:.message}
 
-买高级板请点这里 [installation for pro buyers](install.md#pro-version),
-或者 [upgrades for pro buyers](upgrade.md#pro-version).
+买高级版请点这里 [installation for pro buyers](install.md#pro-version),
+或者升级成高级版 [upgrades for pro buyers](upgrade.md#pro-version).
 
 ## 开始
 * [安装]{:.heading.flip-title} --- 怎么安装和运行Hydejack
@@ -40,7 +40,7 @@ permalink: /docs/
 
 [安装]: install.md
 [更新]: upgrade.md
-[设置: config.md
+[设置]: config.md
 [基础]: basics.md
 [写作]: writing.md
 [脚本]: scripts.md
