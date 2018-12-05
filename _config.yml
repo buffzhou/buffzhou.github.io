@@ -40,8 +40,8 @@ logo:                  /assets/icons/buff.jpg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                BUFF
-  email:               buffdemail@163.com
+  name: BUFF
+  email: buffdemail@163.com
   picture: /assets/icons/buff.jpg
   social:
     github:           buffzhou
@@ -51,7 +51,7 @@ author:
   # twitter:             <username>
 social:
     email:   buffdemail@163.com
-    github:  https://github.com/buffzhou
+    github:  buffzhou
     rss:     http://news.ifeng.com/rss/
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:       BUFF  
