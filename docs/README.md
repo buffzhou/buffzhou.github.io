@@ -33,7 +33,7 @@ permalink: /docs/
 {:.related-posts.faded}
 
 ## 其他 (这些没必要翻译。。。)
-* [法律许可]{:.heading.flip-title} --- 本项目的相关法律
+* [免责声明]{:.heading.flip-title} --- 本项目的免责声明
 * [引用他人]{:.heading.flip-title} --- 本项目的引用
 * [更新日志]{:.heading.flip-title} --- Hydejack的版本历史.
 {:.related-posts.faded}
@@ -46,6 +46,6 @@ permalink: /docs/
 [脚本]: scripts.md
 [搭建]: build.md
 [进阶]: advanced.md
-[法律条文]: ../LICENSE.md
+[免责声明]: ../LICENSE.md
 [引用他人]: ../NOTICE.md
 [更新日志]: ../CHANGELOG.md
