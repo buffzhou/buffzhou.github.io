@@ -4,47 +4,46 @@ description: >
 hide_description: true
 ---
 
-# Install
-There are multiple ways of installing Hydejack.
-The easiest and cleanest way is [via the Starter Kit](#via-starter-kit).
-Alternatively, you can use the [Ruby gem](#via-gem).
-If you don't mind a cluttered source directory, you can use [the zip file](#via-zip).
-Finally, If you know what you are doing, you can [fork the git repository](#via-git).
+# 安装
+本文给出几种安装Hydejack的方法。
+还有另一种方法是用gem [Ruby gem](#通过gem).
+如果您不在乎杂乱的目录, 您可以 [the zip file](#通过zip).
+最后您要是知道自己该怎么做，您可以直接用git[fork the git repository](#via-git).
 
-Buyers of the PRO version should [follow these steps](#pro-version).
+买高级版 [follow these steps](#pro-version).
 
-## Table of Contents
+## 快速目录
 {:.no_toc}
-0. this unordered seed list will be replaced by toc as unordered list
+1. this unordered seed list will be replaced by toc as unordered list
 {:toc}
 
-## Via Starter Kit
-Using the Starter Kit has the advantage of not cluttering your blog repository.
-Additionally, it allows you to publish your site on GitHub Pages with a single `push`.
+## 使用 Starter Kit
+使用 Starter Kit 的好处是不会扰乱您的blog库.
+不仅如此，上传到 GitHub Pages只用按  `push`.
 
-If you have a GitHub account, fork the [hy-starter-kit](https://github.com/qwtel/hy-starter-kit) repository. Otherwise [download the source files][src] and unzip them somewhere on your machine.
+如果您有GitHub账户 [hy-starter-kit](https://github.com/qwtel/hy-starter-kit) . 或者 [download the source files][src] 再在您电脑上解压。
 
-**NOTE**: In addition to the docs here, you can follow the quick start guide in the Starter Kit.
+**小贴士**:  除了这个手册, 您也可以参考 Starter Kit 的快速向导。
 {:.message}
 
-`cd` into the directory where `_config.yml` is located and follow the steps in [Running locally](#running-locally).
+`cd` 进入 `_config.yml` 安装所在的目录然后遵守步骤[Running locally](#running-locally).
 
-Alternatively, you can just [![Deploy to Netlify][dtn]{:data-ignore=""}][nfy]{:.no-hover.no-mark}.
+要不然, 您可以用 [![Deploy to Netlify][dtn]{:data-ignore=""}][nfy]{:.no-hover.no-mark}.
 
 [src]: https://github.com/qwtel/hy-starter-kit/archive/v8.1.1.zip
 [nfy]: https://app.netlify.com/start/deploy?repository=https://github.com/qwtel/hydejack-starter-kit
 [dtn]: https://www.netlify.com/img/deploy/button.svg
 
-## Via gem
-Jekyll has [built-in support](https://jekyllrb.com/docs/themes/) for using themes that are hosted on RubyGems.  
+## 使用 gem
+Jekyll 有 [built-in support](https://jekyllrb.com/docs/themes/) 以RubyGems为服务的网站.  
 
-If you haven't already, create a new Jekyll site first:
+如果您还没有，请先创造一个新RudyGems网站:
 
 ~~~bash
 $ jekyll new <PATH>
 ~~~
 
-Your site's root dir should look something like this
+您的网站根目录看起来应该是这个样子。
 
 ~~~
 ├── _posts
@@ -56,27 +55,27 @@ Your site's root dir should look something like this
 └── index.md
 ~~~
 
-**NOTE**: Hydejack works with Jekyll's default `config.yml`, but it is recommended that you replace it with
+**小贴士**: Hydejack使用Jekyll的默认`config.yml`, 但是建议您替换成
 [Hydejack's default config file](https://github.com/qwtel/hydejack/blob/v8/_config.yml).
-It contains the names of all config options known to Hydejack and provides sensible defaults (like minifying HTML and CSS in production builds).
+它包含所有Hydejack的设置选项和提供使用的设置 (像 minifying HTML 和 CSS 产生结构).
 {:.message}
 
-Next, you'll want to add `jekyll-theme-hydejack` as a dependency by adding the following line to the `Gemfile`.
+其次，如果您希望添加 `jekyll-theme-hydejack` 成为附属，输入以下语句在 `Gemfile`中.
 
 ~~~ruby
 gem "jekyll-theme-hydejack"
 ~~~
 
-(You can also remove the old theme `jekyll-theme-minima` from the Gemfile)
+(您也可以删除旧主题 `jekyll-theme-minima` 在Gemfile)
 
-Now you want to edit the `_config.yml` of your Jekyll site and set Hydejack as the theme.
-Look for the `theme` key and set its value to `jekyll-theme-hydejack`.
+现在您希望更改 `_config.yml` 在您的Jekyll网站和设置Hydejack作为主题.
+找到 `theme` 键然后设置这个值在 `jekyll-theme-hydejack`.
 
 ~~~yml
 theme: jekyll-theme-hydejack
 ~~~
 
-For more information on gem-based themes, see the [Jekyll Documentation](http://jekyllrb.com/docs/themes/).
+找更多信息在基于gem的网站,点击[Jekyll Documentation](http://jekyllrb.com/docs/themes/).
 
 You can now continue with [running locally](#running-locally).
 

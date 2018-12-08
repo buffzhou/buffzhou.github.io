@@ -1,6 +1,6 @@
 ---
 menu: true
-order: 4
+order: 6
 image: /assets/img/blog/hydejack-8.png
 ---
 

@@ -3,7 +3,7 @@ description: >
   在本手册中你可以学到如何用“Hydejack”来编写博客(BUFF汉化)。
 hide_description: true
 menu: true  
-order: 5    
+order: 7   
 permalink: /docs/
 ---
 
