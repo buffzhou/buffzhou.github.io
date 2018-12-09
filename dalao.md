@@ -33,6 +33,29 @@ order: 6
 
 
 ----
+
+  ![AI大佬](/assets/img/dalao/ai256.jpg)
+ >网络队AI
+
+  **[AI的博客](https://xzclip.cn/)这位是AI，~~人工智能~~**
+
+
+----
+
+  ![果酱大佬](/assets/img/dalao/gj256.jpg)
+ >果酱大佬
+
+  **[果酱大佬的博客](https://www.guohere.com/)这位是有点~~腼腆可爱~~的大佬。**
+
+----
+
+  ![~~老中医？？？~~](/assets/img/dalao/lzy256.jpg)
+ >不知名的神秘学姐
+
+  **[~~老中医？？？~~大佬的博客](https://k-h-a-s.cn/)这位是医学院的大佬，人称~~老中医~~。**
+
+----
+
 ## 技术部大佬们
   
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: 开辟python板块
 description: >
-  python真好，一言不合就pip install，
+  python真好，一言不合就pip install。
 author: author2
 ---
 # python学习目标
@@ -21,7 +21,7 @@ author: author2
   
   >基于[菜鸟教程](http://www.runoob.com/python/python-tutorial.html)
   
-  最好能编写一次 `c++` ，再把它用 `python` 编写一遍。
+  ### 最好能编写一次 `c++` ，再把它用 `python` 编写一遍。
 
 ----
 ## 爬虫（技术部）
