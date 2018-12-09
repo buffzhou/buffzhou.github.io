@@ -60,6 +60,13 @@ order: 6
   
 ---
 
+  ![思源老哥](/assets/img/dalao/hsy256.jpg)
+ >INnoVation队员，
+
+  **[思源老哥的博客](https://me.csdn.net/weixin_43470711)这位是INnoVation队硬件方面，巨巨巨！！！**
+
+----
+
 ## 高中同学大佬们
 
 ----
