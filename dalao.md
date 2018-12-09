@@ -18,15 +18,17 @@ order: 6
 
 -----------
 ## 网络队大佬们
- **胡玮文大佬**
- ![胡玮文大佬](/assets/img/dalao/hww256.jpg)
  
+  ![胡玮文大佬](/assets/img/dalao/hww256.jpg)
+ >胡玮文大佬
+
   **[胡玮文大佬的博客](https://www.huww98.cn/)这位是巨佬，本博客上线少不了他的帮助，感谢感谢！！！**
+ 
  ----
 
- **fetter大佬**
- ![fetter大佬](/assets/img/dalao/fetter256.jpg)
- 
+  ![fetter大佬](/assets/img/dalao/fetter256.jpg)
+ >fetter大佬
+
   **[fetter大佬的博客](http://fettergr.cn/wordpress/)这位是江湖人称肥涛的大佬，一眼看上去就很巨的样子！！！**
 
 
