@@ -1,0 +1,1420 @@
+[33md70f89fed610de5dd59cb1950c795d5fea666d79[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m big change
+[33m90e2b5a4a4648be77a9d3c067302bdf1bdea1666[m ?????
+[33m70ecdb90aa2553f012188af3025b36f8f7147dbb[m ？？？
+[33m6659969b8371e348d36bf6b5c1d0f71d2082b1f8[m dalao 3 （siyuan）
+[33m16b557db16e8631e19cf2ea40f87c79dd8100465[m dalao 3 （ntt）
+[33m7f96b4ab6ca8c85aabec2aa4ed90d4f9c54ff0d5[m dalao 2
+[33m144e3bc89dee9a2b42f5417a0099b538dfb6c0ac[m add dalao 1
+[33mba31c37918f11b7ea89cff7b7e9ef9bf809a6fe2[m good
+[33m83a7575d70e3172b3b87ec61ad3bee23de9a3bab[m change /\
+[33mbff795b6aa91967083eaf9cd554b5bb9a2a5497c[m ？？？
+[33m2f9a6a5727946ae6130a4dfb77da4030e3984299[m jpg change
+[33mb1424ac311694c656254a56bdc8c55ad8a4107d6[m change jpg
+[33m64bea4b61dd80aab08484a028d12e5406e4b5395[m debug no ‘|’
+[33m428da4498393913e1ea0a06d03800337548fa93a[m config 4
+[33mfa0dc5d7e354306698854f70dc0976a42107d56e[m config 3
+[33mffa73d93ea3ea7c1ff8f94bee28a4facf4c2c1d3[m config 2
+[33m66ebab2b97eb8c426b688ac80949a0041715d3bd[m config change
+[33m48e2be0851a00c0c76c30804fa7fc33d01196be6[m 汉化README 3
+[33m51bd021553e8216b6fddaf80a6f3678104c992f3[m 汉化README 2
+[33ma9fb5ba543233b399b0b59ab8ebfcb2b7c1702b4[m README 修改
+[33mcd911f229c7e09009d8cf19e209fb45110eb123f[m 汉化README 1
+[33m76e54435d56446c3743a2181f430afaf0ea2191c[m Set theme jekyll-theme-minimal
+[33m5926d0b90756a7482c420c8ef6b89948d0142bda[m Set theme jekyll-theme-cayman
+[33m0955b7d2ed7c122bd37c8c54b30f27e75cb3354b[m Set theme jekyll-theme-cayman
+[33m6c4b59654a3ef3ef55c177b6a947d7d62f1595c5[m Set theme jekyll-theme-cayman
+[33m910cce2f0beb26c45563691c323b8cd4bfb57307[m[33m ([m[1;31mqwtel/master[m[33m)[m Merge branch 'v8'
+[33m35f8168b6e2dc52225435cac3cedf865e7d07499[m[33m ([m[1;33mtag: v8.1.1[m[33m, [m[1;31mqwtel/v8[m[33m, [m[1;31morigin/v8[m[33m)[m 8.1.1
+[33m9ab3a6e5adba101e8e6bb32740b96fc81dca847b[m bump release date
+[33me4cc617863ebf02069073a9e11f2607ef7c97d79[m update deps
+[33m25c51a39cfa836e6de14a00a5cb47e6ec1c75daf[m update changelog
+[33m943a6ae3596bb6b39dcbdc5b8e064e9dede98939[m fix #115 (iOS 10 issue)
+[33m1020b73499bca2db3b25ab09b053cecdbcf2913a[m format webpack config
+[33m4e3d36bfdfb2759250c737339ad1d3edb9c52c30[m update canonical link and meta description
+[33mf61578727da0ad034e833fc56c21ce3d097e147e[m add readme to _plugins
+[33md805d24d58e991a91f841f0841725a7f8e103a35[m update content
+[33m577f0a212abf336e07716568b95763336a87c678[m update css
+[33m5d7b35868f562c0749467dd34057b37db59aa21b[m update docs
+[33mc5d59a6ff08cee309b9b22987a9b7ee5dbac9990[m fix #108 (remove eslint)
+[33m10e3445dbbb4c186df924b0077cf3c9ac0026ea8[m restore pre-version .gitignore
+[33me1604f74605ed960b22687f354064349cd5aaf3f[m Merge branch 'v8'
+[33m6398d295d3abba780e8004601eb4e886fed56a52[m[33m ([m[1;33mtag: v8.1.0[m[33m)[m remove btn class
+[33me867ef6bc28229907149f61ffb9facd982e01ee7[m update readme
+[33ma2eb6c9fba9de5df60056a1dfd83bd22e017f3b9[m 8.1.0
+[33m6b9133a5e0bee9fd1327ac933264aba23ab32166[m update docs
+[33mcb19d16edbc4d59b15f0aa8f170ac5cabb664d96[m position navbar absolute
+[33m052792a2077d66e643deb50ffe09c5f036d5d769[m fix #107 (remove disqus from core)
+[33m98f638531dd28f9888d5272f7f544ca6276d7994[m restore pre-version .gitignore
+[33mb1cb1260b44087654aa0a3ffd2f377e287689397[m 8.1.0-beta.3
+[33m35889d57668176ff52eb074280bb376688a575de[m stop versioning docs
+[33m9f3dfc6e24ba10b72c362f41f7b501827d8f836e[m reorganize assets
+[33mf19f2e6943966dfda566976a25915c05db8f6df2[m update chagnelog
+[33m9802ed0fe2dbba4f43787d690a52a04dd1dc9ae6[m changes
+[33m9abea5e428f45f0d4ab50d0e5481cf1aaf21c51a[m reset cache number
+[33ma12f0f16c3f8074b74f8f34f3dc342b73526f0b1[m update gemspec
+[33m41e4933807920e556d55350c26fcae0abf41d524[m remove js from ie
+[33mf4cf233298608311dd78c6838065ef8c51d9c444[m fix plugin production build
+[33m4a77ab3ceec5e1a03f61ce7246fa9d5d5499e4c1[m prevent validator error
+[33ma7f588b704387271f8bd4a6a33c8ceb25bca9b77[m replace re-ignore attribute
+[33m1c844a0ea8113e99d2517a1e0c0aa96a340020ea[m fix css rule
+[33mf5cb4fcce30a3a4124eb7a8487a753df8fb5b9f6[m remove redirects
+[33ma76512835e1fa3c5590707e1697ea10d8d5545e6[m update content
+[33m1e6ab6bb0553258767396c5037e1c3546f46ee00[m update css
+[33m1f6ecc0d3efc34d1d90d9a7ccc842e4e4cfac531[m restore pre-version .gitignore
+[33m4345fdd08486d30b28e4c59c78063df85604bb80[m 8.1.0-beta.2
+[33m92b966c3c5e8d049e5e46098d8aca8bbd6722638[m update changelog
+[33m969c3a1d44e24f840678729333e046ec4c7ed0bd[m add fallback images
+[33m146d8cc598837ae807bb159d2ad79d62a68c98e7[m move cookies banner to pro
+[33mdfe47152efdcb3f502252a467aeffef8f9c2f64b[m remove my-variables
+[33m0f5f292e17d5625af91b0090c7a5ab31876fd3ae[m remove unused imgs
+[33m44b6fb62827cdb4b29f2a1e73945fec225c5b6fa[m remove video
+[33ma639396487b8c20c4ba078f43063b9589d2ee2f4[m update dl link
+[33m07b560f036e725cda32880f8ce66183980fe8746[m remove pre mixin
+[33m8dc82f9a4e5ccf0b51c28529b5f54cafa545106a[m more css variables
+[33m8f54c285b531d4a6658f726f0623e79e367b5d00[m iife
+[33m8783085c4ea0f2af2bc1c34977fe6e750bf37cfd[m wrap code in iife
+[33mfd950585180fecb69b26252efa1fdd48892f928e[m remove ga code from hydejack core
+[33m9a69087589126a9293c8ff46f902c37cadfd180a[m don't hard-code sw path
+[33m6bce5671b3222a8ec36771a221963653ae97e19d[m fix #103
+[33mbfbed417b77b9667760322a41edc5612e371e22d[m disable sw for now
+[33ma3c7f64f957dbfa155c491116b6e3295d1111d30[m Revert "don't cache videos"
+[33m56f07b7d1a843a868b295b32823abaef7b4648f1[m restore pre-version .gitignore
+[33mb7fa3bd7613ae39381547cfa656675ff1ad189f8[m 8.1.0-beta.1
+[33m7aa46e18e2ff9749c6c9caa786b87cdea2208c74[m fix dark mode init
+[33m7a69cb677af5826726db0a0c2c213e1d8a6c9647[m don't cache videos
+[33m438eb3eb7b166abd099406a4fed0734f4f1a6b4c[m bump cache version
+[33mf129ed800ac3a661dd52345b57e3321e2591b197[m fix gen css
+[33m226cd399ddfaa7335e61171eb6b30c20c6f352bc[m use slightly less unfriendly name
+[33mb4fcaec075d57e52115a38b192024943a07e1d43[m fix path
+[33m530d1d57673556bef639e3b60212f949e91bb614[m restore pre-version .gitignore
+[33mfcfafffdfdbf751e5d4e940584f316d53f8e079f[m 8.1.0-beta.0
+[33m0b710a0b7f2e5ba599c4f84ef1112913d22b931b[m bump verison
+[33m1cae3431d4a62560bd9a6a2d3a4df87277669cbe[m add blog post
+[33m50c2853c7be4e6fad578514b58d2e4d704b711a3[m update scss
+[33m005bc97117bb9fe245e75059845f6c49cd56ae50[m update notice
+[33m553924f3a31de456cdfa85d7fb388d6f8463a529[m rename css folders
+[33m3b371dc9a4c64eca2428594a046f66f742d3d0c1[m adjust margins
+[33m734269dc0df2f8f1fa96620bb333b7167fe896ad[m dark mode WIP
+[33m8c55cbef35c201fc2afa6d1a83b1d3d096ca8a66[m dark mode WIP
+[33m75372cdd2c5dfe8b2c781b7c6ef307e659418ca8[m add white space
+[33ma0bcac2154d3c2e9a6bdb1fb96840b2cb26e5fdc[m remove font face observer test site
+[33m821f7eb8d9a0ea375c34e7eb85ee35ab6f28fb03[m adjust draw range
+[33m21feef2b2103ec6fd573f8ea8febc16a1eff32bc[m restore pre-version .gitignore
+[33m9d44b1765f11b6d4f284e66f9fb65ac7db46f820[m fix no_img
+[33md867da867f6c24f437b3559acd648b681f386ccd[m Merge branch 'v8'
+[33m0471ed344d451320a66e46201a173e81be71e91c[m[33m ([m[1;33mtag: v8.0.0[m[33m)[m 8.0.0
+[33mf49cc40395ea57a06b0c78a9d82b9ea0ba239636[m update description
+[33m8af4b23683bb03d49cb4e8ee628bf932922f7f98[m update gemspec
+[33m4151e31d4c83ce299a3396a5d429f27eea8d88f3[m update docs
+[33mc2838043f637bf9231728672fa2c938966d64b02[m restore pre-version .gitignore
+[33mc96c8b062d5626216a0312b8a23cae06207fe9a5[m[33m ([m[1;33mtag: v8.0.0-beta.10[m[33m)[m 8.0.0-beta.10
+[33mdbe5d0ce0ddb2562ab87babad101cced1652fdec[m update
+[33m79eb1511fdb386227e12c6dfceb70f9a9f45a57e[m update offline docs
+[33m31e11c10edc72f6d52d6f8ca5e44b8faa85c0877[m revert remove css docs
+[33m00b4169a41ff312bcd01c241f93e25a8e3096354[m update hy-img
+[33maf76f0358bde8e84211ad1c7043d210ed4e0ba35[m re-enable offline support
+[33m3e1caea9b109755827f662470b2620e9e2ffc704[m restore pre-version .gitignore
+[33m0bdd006522b8671be8608aa2bc64ea245c0c42fa[m[33m ([m[1;33mtag: v8.0.0-beta.9[m[33m)[m 8.0.0-beta.9
+[33mb82c6184cf82d1eec4b15f89cfb1849029824b3d[m update deps
+[33mefd04365c4f54034494653341d5faa0a5ebd3a40[m update hy-drawer
+[33me32f0ff4dce4132f2b28bf65e2a30ab9cf5b3757[m use NEVER instead of never()
+[33mce4e1d518577675ecd109d263681ba795611075c[m update hy-push-state
+[33mbe0d88b7897aa8f47de1572faa97a6162fa9f27e[m update js
+[33m8da0c577c28b8a408cb6b0dba472d7b51da20dcf[m restore pre-version .gitignore
+[33m71c73ef13779eac1f5bead4fb23576ef06397358[m[33m ([m[1;33mtag: v8.0.0-beta.8[m[33m)[m 8.0.0-beta.8
+[33m4053ae61f6bdfd88b05e468b892078fbc705b7e7[m[33m ([m[1;33mtag: v7.5.2[m[33m, [m[1;33mtag: gem/v7.5.2[m[33m, [m[1;33mtag: gem-7.5.2[m[33m, [m[1;31mqwtel/v7[m[33m, [m[1;31mqwtel/gem[m[33m, [m[1;31morigin/v7[m[33m, [m[1;31morigin/gem[m[33m)[m add gemspec
+[33m3d0d9112b6376cfeea798540c292eb8bbe81da18[m 7.5.2
+[33md2c9a4f4768d29a7e59d79a0901b88882ad9546d[m update deps
+[33mb618c5f3ebb013f6a65d10ce8713286b199db152[m fix #99
+[33m6e1b3fdcc3cf37946c7ea11e3431b98fc8eb683a[m fix webkit drawer width
+[33mdcf7c04d509e3a6d259eed666adfc48972753a8d[m fix preload
+[33mabe71f0ad7c6074b6abb40684510da12622a3d76[m fix navbar tap
+[33mb0d3a8cc44b57f61b83b820124e4b02dd53bc5e3[m restore pre-version .gitignore
+[33m3e68562d88fcb89a7ff667e36817f0579d3b65fe[m remove unused code
+[33m7465296f77accc3303f931c55fc6cdf99d62c8ea[m[33m ([m[1;33mtag: v8.0.0-beta.7[m[33m)[m 8.0.0-beta.7
+[33m82b113cfc59590831fc8c5b2b098150b9673d6c4[m implement #98
+[33m01a7469658019030f2357ccebc5921d5fa2eff65[m update deps
+[33m18caaca6e9785658962bbcf12c1244e9f51a8556[m[33m ([m[1;33mtag: v8.0.0-beta.6[m[33m)[m 8.0.0-beta.6
+[33m2c9b28c39f2c334fe4f3ab3420a17f3a3d7c52b4[m update content
+[33mae2904eccea006f14ca0317d75f6327384f3231d[m use theme color for sidebar background
+[33m168e86eb4619434a1c4c6e010a1ed0b9d8527db8[m update docs
+[33md5d72b33cf13b6f18fa629a0193149e99b8e874a[m fix social bar
+[33m94d9ebdc34433b3d47d6e1d2651142062ed3b34c[m fix sidebar exteranl links
+[33m6bad8d3a33ee73a7b0e0183b5b6090426b8f8234[m update content
+[33m58ee3466d3d3ac4c1e6b3530d32e5e4299f453f1[m[33m ([m[1;33mtag: v8.0.0-beta.5[m[33m)[m fix images css
+[33mf381194d2085cd7f0b6b27a0506209a1544c32ff[m fix keywords meta tag
+[33m24d48ce9fc657518d1bc276fdf0c984545464ade[m 8.0.0-beta.5
+[33m29ff176b7f9603d0b95e11db718e8e730fc8c06c[m update content
+[33mc01d7a0bd56665d01eedfd879035d914c22ce9ba[m update to webpack 4
+[33mae966ac94a135f2ecd39e8995cff8af215bc5006[m fix hyde bg
+[33m0edab131281f39d30441b9a02281ffd7acbef92c[m fix img height
+[33m8540eda9a8d5773486622f5244423dd43275e20c[m update docs
+[33m75ac63b9db59362b9a53395009ec8090040b4aae[m restore pre-version .gitignore
+[33maf61dc02683828437b358f4d86735d399ad4f362[m 8.0.0-beta.4
+[33m5b3b162f8c8ba5a8a37ac0497fc77429274c283a[m update content
+[33m2a0c2ba08a8f9ffb9d0bdab556fa069bc762f459[m update includes
+[33ma5037b5f3249a221cdcb9e01647c6dbc233cf911[m add margin to projects and posts in welcome layout
+[33m89e4f6c7ac4d107f92703fa719bd8d13764ebb95[m remove unused attributions from notice
+[33m0d03c25894f508336edbe13eb46644025c23a0f3[m rename to figure class
+[33m9ca6bc122911e23d7703c683a964f23803be6e38[m add figcaption class
+[33m7a1b87c642f913625cf3e210b1ea1d4622e93610[m fix img alt text
+[33m7f9061320ec668972848d69e8c93445332b09360[m update content
+[33m93ac9d5b2cd9574c8bc6a7007f0359777f774e61[m change projects
+[33m7d6dafeab2d841b4bdae6170cd64fcd6e7530f5e[m change to prefetch
+[33me954d09fdd7875e9cbc16b2d6c3c44a50d350005[m unless
+[33m22dfc434f1b61b8618aad85d472b78e9fcea550e[m improve ff scrolling
+[33m6cb1e8c2a313c32caef1c643ffc8b6ce53fee8b7[m update dl button
+[33m7359c70c1c2476599a87912bf5c32f1ea4e46c2f[m update example post
+[33m6151fa26c249ae04e1e55dfc8efd11cf8730a6ef[m fix dl link
+[33ma55bc7229de4c533ff8b5574e0f21ff7fa02f22a[m restore pre-version .gitignore
+[33mdef111c45afdb9a95ddd08068f012e8e4f1a1753[m remove old .js file
+[33m40e4024ddee820048e71b59d40d4720b01eb333b[m 8.0.0-beta.3
+[33m562a824deafaa3e53b95dce9a61790c34b1c4b64[m disable sw
+[33md99d5f2b4c9b477b45124bd076bf86e5fcbb5933[m fix build
+[33m61924f42e7f62e0f49d4419837ea4bb8ff3f9b18[m 8.0.0-beta.2
+[33md98417aebc489d2477a988326ba95b61739ecb8b[m rename to hydejack.com
+[33mc36e90c3bc6dcd53c306355fa6ce6e8c1daed2ac[m Delete README.md
+[33ma9f93eed31d2b2d1433fb7bbfffc9311adac655e[m add cover
+[33m7d131466ce487452f0ea86390afe847d03a7a324[m add missing img
+[33maa212dbb6028025159cb3be405dc578f957751cd[m fixes
+[33m66f1cc48b45898fe60ecfaf426344ec91efd16c6[m fix docs links
+[33m889b2b9f0d240fe35cf89d3549f678e528825938[m update gemspec
+[33mb2cb2e8cd278561336b2bcb4914250a3de139674[m remove md file
+[33m649b9432e3be372a82b08a58153ef53c369817ff[m restore pre-version .gitignore
+[33m7a2859921b79c78a51dd4fd0655c8994f0f40c01[m 8.0.0-beta.1
+[33m2ccfc7f306d91fc7a686191077ec6aa6a2c0d03d[m fix home layout
+[33mb08dcf8f83400a8ec20cba2034670b4fab297799[m update url
+[33m30b35545524bc36826db450b59246d9c9ee8193f[m update content
+[33m7468538444771f7b86a524d6bc75ff3169118595[m remove redirects
+[33m83ab13e661fd131cd016135a9dffc907eb9f33c1[m use default layouts and opt front matter
+[33m62d5cc26ac84d6d6eede3d82b14ae0cc67aeed2c[m bump year
+[33ma4833bb7d53a7228f6eb493abdc22f121354448c[m use readme as index
+[33mb5d56fc61af8ef6291078807d3bc66e49fa11566[m rename to hydejack
+[33mba6939ea9a46e65610d544653914cfb7906d9f30[m update gemfile
+[33m0a8e2b1cea60a1616dbb075bc0161124621f2867[m delete post
+[33mdf38547c9a14147feeb53327089f88cee8997bb4[m allow multiple resumes
+[33mb3365466c664d9ae4f72213bc05dd77739f33108[m docs
+[33mfa71bf5baa828b7e648e271ff7c734cb205397b1[m restore pre-version .gitignore
+[33mb7eb2edef7210da7bac781dd06112aaed7c840e1[m 8.0.0-beta.0
+[33m5940502b6b515e9057b78c0ecb349cee4d99f2c5[m update docs
+[33m67f5e03c328458349a8c70c6c5742156e8eb99af[m replace zip operator
+[33m04e41cb8e37c47716884de38748a7f314c35f088[m update ruby deps
+[33m067f7925e2ae492dcf27bdaba55c9752c806986f[m update rxjs to v6
+[33m051ee3a35d95b1c9cba3805d60325f56f414af2f[m remove todo flag
+[33m816ceaf7cc60448fe9857ed4b70e1d095f5c6840[m update notice.md
+[33m9f9be5975a80bd0246a4b5d4c093d2405950b9e0[m remove safari special treatment
+[33mbc771dbf48505bd25fec631f0b73498cbd65e5c8[m remove config from docs
+[33m1f9297ebf1eaeffacc174a08fe3492bcc58da899[m rename post
+[33m30909af07b3998ce8361ed06b844066047c65372[m update deps
+[33m9343721e1e19fd30b3959a7744203474bced6f1b[m update changelog
+[33mcb9335bdf7ea9d3243cd151b99f3257cfd0256c5[m fix  #87
+[33m194e3e7e8b4d6bbf7dbc6b56566209f5f4612e04[m Update package.json
+[33mdba3333d8ac89ac81495f63b75274ac244ea577a[m beta
+[33m2c1d200d23af5d1ffb6129643de1098318670361[m add mailto support
+[33m4ca6861c0279511c8ce28fdffe15fe44be0e5be0[m improve manifest.json
+[33mef1260f05a6f970f8e57fdda5ec5834eef4b0dc5[m fix multiline title
+[33m4728a5e13de7a0f1eef6f1f40a144b7cc055af09[m hide footer without content
+[33mc22aa5b54f76435a9b3cfa2ed36e614bd9826387[m WIP
+[33m23cd15046370bc5fd544a34e8516a3c3a1687edd[m use expiring cookie for cookie consent (#89)
+[33mf4dac83d6fffefa8a16e9bfadcae3c546c32ef76[m fix #89
+[33ma5eb9a29f11be5ff062f2b281a4a455658caaf80[m remove unused file from docs
+[33mcdc0f0da93a7d769a3be3950306d0c3d3df13fc4[m restore pre-version .gitignore
+[33ma49cabac5582ed25be47266a8075d5e5febf9734[m 8.0.0-alpha.34
+[33m340794b86aa612493fd44ded1fd6519da53e83f4[m fix resize bug
+[33mf9da0d1c12159f48ed287209135fdb79ed9e07e8[m update sw
+[33mec0bdd331510bde7effecd0d226d825b57f1aea0[m restore pre-version .gitignore
+[33mf72c4166009647c340af13c06452e0333444202a[m 8.0.0-alpha.33
+[33m9291a70183752480fb2f9ca41c1c2110c2b575bb[m fix sidebar flickering
+[33mdf5b839cc6a31f0bd5dfe98a64077f10767240ae[m fix cross fade precaching
+[33m3872c94ae92de62fb425f7f479857a026c8d67a7[m restore pre-version .gitignore
+[33m01cb48778d80ceec1c4468dc693882ed765fd672[m 8.0.0-alpha.32
+[33mc61b049b1f96d54687ee2dbaa69eaa737fb62f56[m update sw.js
+[33md3d34345db10be7e9e6c28f06ac7b5b2ee4daff9[m restore pre-version .gitignore
+[33m4bd65c6b71374bfceb0bcf49948c90113f1c799e[m 8.0.0-alpha.31
+[33m0a737ab80471334a76127b59631da157c55d135f[m fix 404 and change sw structure
+[33mbb0e3c99ab4fb55cdd7aa4eebae724dbe5b29306[m fix firefox bug
+[33m7d447314e6947193928e4877dcea95e39ea09485[m restore pre-version .gitignore
+[33m9d62d78e960f3018f08151d0d277491cf0532831[m 8.0.0-alpha.30
+[33ma22518a3f689d2d31062963aa5e030f0434b8072[m restore pre-version .gitignore
+[33mcf004fa9d57d2fabb4bfbbba7f27b813c88e4ddc[m 8.0.0-alpha.29
+[33m19c874516104117f4e0171d6c12c572ad42253ef[m fix version script
+[33m4ced51d1b26857f3727fb76f2c8642f6c096ff05[m restore pre-version .gitignore
+[33ma8940c47a58530d80b204186ae52035b65743862[m 8.0.0-alpha.28
+[33m5e4a537fcb8ddde3dc31e4e57362923e8f83f623[m add offline poc
+[33mf2ad5f9b8c2d5770dccb2fac75a3810b2e6aa76c[m update deps
+[33m7bc0256880b08aba8b1789a1eabf3ab9fc07e3c6[m update hy-components
+[33m162a11a28fd1d99edb066616216b91f352fa6166[m fix list layout
+[33m64066302fabce5be3f3db8f01afa0b239f2c31a8[m structured data updates
+[33m2089d212881e331badefc001dedb6840c4601488[m add hr for sr
+[33mad0c4cde7dde8d3e4d88f287d14366c7387daba6[m add structured data
+[33mbb083978b279cb53ec812028bd2bcd38f27ce7fd[m add hidden attr to templates
+[33m2775cb189bb51bc18769a491970353ce2759017f[m restore pre-version .gitignore
+[33m0b69147da55f96fc1d3c660141bf4b23c212529f[m 8.0.0-alpha.27
+[33m47e811a1f7cef1b7f26f0eacd5e0e9c88f2f3400[m prevent 'unhandeled promise exception'
+[33m42067321a68bc4f6ae0314d03b4843a4e3256adb[m restore pre-version .gitignore
+[33m2e82ae8727569b6fff2952ce3e7f9052c61fc453[m 8.0.0-alpha.26
+[33mec668fc2a1fefef49fbe3044cd5d621137728218[m update deps
+[33m65c92e3f2c079a296a24bdf99b0f079428d77998[m prevent trigger jekyll on js source changes
+[33m74c0082932822285aef61342ff4c070330b904ee[m fix sidebar "flashing" and scroll reset bug
+[33m3d3aacf40e4c52c0d05e1e1c28d3dd608d5740b9[m fix images in old browsers
+[33m83b0abcfba02aa395194c6dd576d169279f1a6c8[m remove logo from tabindex
+[33m9419bd8325fbba7ec03d7998f623b40dfc8d0bbe[m restore pre-version .gitignore
+[33m8d696e1a8979e010e27d774196bb3de871bf4815[m 8.0.0-alpha.25
+[33mfa1c105f003563cf68c57923e3ed15b54b2524f7[m fix safari logo load bug
+[33m3e038faa915c6d4ffd7c4b13b24f8cd64d4c6603[m use hy-img for images rendered by hydejack
+[33mbc37b4993a1b6dee00a68b691ac4b4ed1ba1abce[m restore pre-version .gitignore
+[33m0fc1e77a8cefec95ae9abfd323dcc8aabac6f6d5[m 8.0.0-alpha.24
+[33me6fce066bb1a03aafb3b8806adc7847a19917e15[m add image fade animatin
+[33m1967e5757ae39328c3ee542227592ecd094345e5[m restore pre-version .gitignore
+[33mc7ddb32d29794b470915a6577015d90140c35670[m 8.0.0-alpha.23
+[33m2b9d0d7aa6f0530423f7f14e7c069bfe73df80a2[m update deps
+[33mfa33e818d985e6d2b89f4aab2d60316c959618cc[m remove polyfills already included in webcomponentsjs
+[33m145502ae135be726be934d36df66fe09bed65006[m update notice
+[33ma39caf86df8f656c977d28b4f2c5fbe81c6da4c3[m update
+[33m56ab252afe94cb32d9535b21607aceac7759956c[m rename blog post
+[33meab987b5294e1c9508e61a04a51d329e3c245b3e[m restore pre-version .gitignore
+[33mf1121b206ab90b74cff610e5ac589859aa1f5d05[m 8.0.0-alpha.22
+[33m04a012a2d6a88953271ef990b7cefa1c65a5e0cd[m fix ios animation bug
+[33mba67b68c23f657a915a5672bf6a2b5c7e0912faa[m restore pre-version .gitignore
+[33m8156ede1fcc2cd567469771e87043bfe088b066b[m 8.0.0-alpha.21
+[33mc54783c30387ca2b28f4cba625fa48b99d2c0714[m update drawer.js
+[33maaf87343e0e7ea44cb242683a160f70b155d5579[m rearrange imports
+[33m21b2eabe9216b4d66a85c4f48067c5fd8d53502c[m use hy-img
+[33md23b35435d80e23f311c8238fd667415d7a1acef[m use animationframe and idlecallback
+[33m2015ba2bb41aadd46e500473d62471bd1a6bdf18[m add trailing comma
+[33mc0bbcc74e351d99aee5dba369476ce1aab196611[m remove margin from img
+[33m265399be6c0ac387b2f1ed635a0073919ab924b6[m update replace-imgs plugin
+[33m732395e8ac84ed667db2ec20d262cb53582d3020[m add size to images
+[33m766fe31c793d456d71d40b931f88d4d49a9f26b2[m use CSS OM when possible
+[33mf3c7d9285ed9368b24a18bc62a59dec6fdf6cc74[m fix no js fallback fonts
+[33md1dd62680b090fdf30cacb2c244db864bdb95e67[m change css
+[33mb63a13e7c5b987de452949f48c1c3a198d9b214d[m update css
+[33m41e475a17002f9b1ae2adb9675a7fce192bba50e[m update bootstrap to v4
+[33m3cd9c7bd4410a6c8a9b9650c716d041950729d05[m restore pre-version .gitignore
+[33m167dd225db12e57e0fb5bd53475ece42a2e6e74f[m 8.0.0-alpha.20
+[33m48e743fbd05a8aafe5985bef1d36c8d23fa97871[m update plugin
+[33mba6976989c35836f866bbbe54802bbf865922255[m remove js from repo
+[33m9460edcad974b6ea31ae570475ac38dad0fbc569[m upate chagne log
+[33maaece081bb084ac383fe78b3cebc5a58566a66e2[m soem js chagnes
+[33mda5d37afb0a06ec333a01450baca09478b8c9bae[m remove inline logo
+[33ma7ae9cf300f9c187292ab7ea409cc0cd9c71b532[m add license and doc to plugin
+[33m6d2f3bc603f6431ca0a4d1e0feae3da953170d84[m improve relace imgs plugin
+[33m954e72b8009c6193e3558f094cad73df3ee1a680[m 8.0.0-alpha.19
+[33m2dcfe095d205f3f4720da2482c143607fd88b4f4[m update deps
+[33m34a27b6c5bfdabdf073c6d7527d5a83cbfa12d0b[m WIP
+[33mde6f644a2d7763c26e6a9b51b6f68c2c3d3794d5[m move js tool config to package.json
+[33m5fef77fbfd5e694e49527005cd77e6de9735f8d9[m add gumroad button (css only)
+[33m7bf41f50e7c5e38038288fb655362ea139e52a06[m set print width to 100
+[33m9dd1e5da1c5ff95df740c3763e4887fc28e1773a[m add eslint again
+[33m61169de1bea9ec7d23ec1b9db3e59bed535cfe2f[m add option for old about and welcome layouts
+[33m9c05f7aaaa9f13959b91148e27a83ad475c5345d[m fixes
+[33mdc10b6c35faa11abdb1f54f4069e1597ef31c286[m remove eslint
+[33m1725dd55b90cfd8faaea38bd20f6d8536844c295[m dont set mouse events on mobile
+[33m6ce7ff6a806840070b08c8314db2a7edcf4b42b7[m bump link
+[33m6b14cb8cf41af73666abf37c74389ab5433c9564[m fix firefox stutter
+[33mbc318ffb1550290eb4a56cdf1b03c9c7a1d7ef04[m fix nojs version?
+[33m740247d12cc0849eae304db9f8280df068a25079[m prefer page addons over site-wide setting
+[33mf71ee838ad32b6bb2e0d4ac6cfc994fe17b803b3[m fix style issues
+[33m54b41821fab62a28186635a3e906906738f21a69[m build
+[33m7b7a5548a6b6d6789e367d6a95232f36bfc60727[m add global functions to eslint
+[33m0e78b5ca884f96103e0966aaa7ce3151d5b7c362[m remove old js
+[33mb7c4c6793a45cdaeaf1682c96cf372f87dc83fbe[m change katex
+[33m67c5fe6e1ebf8834ed8fb52997e403006df25d71[m dont hard code URLs in JS
+[33m00f66ec09002a75d1777fdba27ac4811bbc45676[m change asset selector
+[33m81a69431d243f74ef62c4d41c9eefad8c0901510[m fix no-js env
+[33m9bbba3d549f68b31c3c3e084f66def26ab18bca5[m 8.0.0-alpha.18
+[33m2fb12c620073b5f1241de1705be743f6443df0e0[m improve font loading
+[33m2a921459fed3e99220472ba8f15b281a91241c9c[m change animation on mobile
+[33m362c73c1c2866f360c64dda1afc73c7a0dab2be1[m remove unused styles
+[33m8f88e2180cd78b23e5395754d4f83bf1b266daed[m add webpack file to ignore list
+[33m6c9ea3cbdd27ccaebb744932427a0b948390a360[m 8.0.0-alpha.17
+[33m57a0280c73cc467f35875e56174aef82171e3308[m fix .scripts
+[33m57c4d1360224cbbd28351e81a815a3ebd27eda0f[m use webpack friendly comments
+[33m1356806f8d86722dd010554089113b1688ce864d[m shy img poc 2
+[33mdbba263b07323c707ea416aea0504e9e63d7cb73[m format
+[33m160ce47d6ec1ee71ad7896f94a40f9204e9ea4c2[m add prettier
+[33m96c41fee567d0f0f24f0975dd3f66b633e4d1f00[m use css selector instead of regex
+[33m5bc6dfd5b0de039379a76efb44c970d8130161ed[m use webpack
+[33m0a66db679bec003762b3e493f15d27d6b3bf0d29[m use webcomponents only
+[33m1bb39d377f20a2bad5858f4c6d17bd208f31f5bf[m shy-img WIP
+[33mc79a54fbe35da172beb1885f411e932cebf2d749[m add gemspec on master branch?
+[33m0ee490f128882c633a944ec0f167a2a9e30b1764[m fix plugins
+[33m8a07e75f705b76bbe5cb5d57088a49ddc0be5ae6[m use markers in welcome layout
+[33m3d992ffabafc5dfbda8b63ab282101533de9eb63[m update bundler
+[33ma9ac333076fef3bf8ec493fec0fe3e574ceaf72a[m refactor includes
+[33m084e102c0c71500ad10be70624da3281587b0ad1[m add theme color to config
+[33md7466e0e5b148c7be1c31e4e62d599bebe2645dc[m 8.0.0-alpha.16
+[33m6e850026d4808120d022012c3dce6e4a6ed90248[m remove gumroad script
+[33m4c7ddd54bfdfeaf6d9db9e54547af73d85cedc4f[m shorten resume text
+[33m4a355ee6d462f4af7b554df5e1cf035c2912ae4b[m add dl link to author desc
+[33m36bcd7f026d1c97f7730ab2037610733465a2dbc[m add animation to footer
+[33m0655c8e94f6b145149860c35dc5ce1ddce895007[m fix titles from headings interop
+[33m59ddbfbbf015284ee588bffb3339bcff1bbd115b[m add theme color change delay
+[33maf3978136c429c95f84058333f22d46f79830d95[m fix default font weight
+[33meb55c41a655eb43dca81c79fc3ff6e57df5e279d[m remove old build
+[33md55cbb7a4e73d644c1203d5562188802f076618d[m 8.0.0-alpha.15
+[33m9683038c1cd958dca5168a3701f9dc8f992c6b8a[m fix script
+[33m8ff8ad20d211255076b040c76f637225d7a2a35d[m update table
+[33maa299bb8a01f31411e46e7321b0ee8989f46c04f[m fix relative paths
+[33m5d75bcefe5426ae0cfed63cac3e868e34e9446db[m use gumroad button
+[33m0e01ad890c82d65054e74555a3e68c13bdfe4017[m highlight footnotes
+[33mf4d6014d7d324e4e3bf7429db6029f713093579d[m use strict
+[33m988a0d843e99981c2b30ae44e918efa1cae1d1af[m update katex
+[33mb15ec6b7bddece90f07bc76f00629568ef5c5c25[m use folder structure-like urls
+[33m6b3c6d40e3a6d22185076beb562f780cf67fe5ea[m remove category/tag level colors and images
+[33m51dc0d4f0037b16030f6e134602ea2935f345daf[m 8.0.0-alpha.14
+[33mc2e875f5b823be9087f93dabe11c212518960f6a[m remove css related js code
+[33me4ff68eb5ab463909d2bf10493bab875ffd5b4ff[m remove webfontloader
+[33m02d2065dfd16b61ac82c634253aeb7468a2183c8[m remove old js
+[33meb7659c3095ae4f92fdfd5abdbd8dccf619a29b8[m 8.0.0-alpha.13
+[33m0846053c06424634a361bcde2568b9f907fd8579[m fix style css
+[33mb232fac98b48607ec51c73f6fa29bb1575331602[m 8.0.0-alpha.12
+[33mc48d63a124ed4df671a56fc60d0b5837e5e4bc06[m remove css splitting
+[33me95b6e1994ee3ad71f9709f48fe9542ce2ac3f49[m 8.0.0-alpha.11
+[33m24873888ba09bd631e63520e9b852655023ac7e0[m fix hy-components
+[33mf614f56c200d9fcd0ffac203db257d6ca24cf724[m update copyright
+[33m795dee6df7a78ecd0fc3a4cd73e5b7a958d5c181[m build
+[33m03f2a4a958f623e068cf51f8502644b179b22959[m change load js deferred script
+[33mb5c24ff57ce923633cf25587030659854ab77965[m update js
+[33m349f40450693d1fa19a21756c40839549d3de12e[m build
+[33m7b53336bf7de98b2280f637858ec1577d9384f1f[m change blog menu link strategy
+[33mc33cad6164878049c1eda6e5bdec43240a3b8b18[m upgrade hy-components
+[33m290b6966adaab86d81e534dea7948f5cd685c66e[m bundle update
+[33m520319c261d0c0b39706a6937b54b0c1bb4111ba[m only include used operators
+[33mde09038a7f197cdf8e567f0403135e69ac3ac618[m change copyright
+[33m0146865e66a9c51a1b6d6f39dfa9605986b9e465[m update sidebar
+[33mf342865a92780998c65f8288d058a8350849e4c0[m make JS standards-compliant
+[33m0504e1ce7cac3624253192a0f5a7b8c3ea0059c9[m change avatar size
+[33mb855f67742efb4046c93f1197335f10dadaaaf1f[m update deps
+[33m3cce2d420b1dab963945e09fc2b89288586ca46e[m remove utf8 chars
+[33m92808078d4fb5e7b26aa536d19584774b3237a8a[m change css license
+[33m474681df9fcec545eb4c5c15d93704cd0f3ee3a2[m adjust shadow and hide menu button
+[33mf812ffc969ba9ebca26c0e763f62553c6e10398d[m cleanup
+[33md8b74d1f8ac937870a3f9ebc63ad37d6828c579e[m 8.0.0-alpha.10
+[33m50cf64ae83ed66365be0b135b79ede9d8ed31a63[m fix cookie banner style
+[33md541cbfa7e933f4737841f5be8b0718a2717e2ca[m fix docs
+[33m631ef9d85bca41a7087867e93ad2d537adb2c306[m 8.0.0-alpha.9
+[33ma4c6256da42bf87ce36367df1d83702f8a701ff2[m update js
+[33me81f06f2e4bba7648241b394d146f3af953e56fb[m show swipe icon on mobile
+[33mcbd234fa86bc4359d5b2d07e3dad5f1626dd1c20[m update scss
+[33mda954528c1ab86c611665567f42804c4af05a36d[m update styles
+[33m55f71ec3518be7c8d8c7a645945188100c9c9cb5[m adjust height
+[33mafe61bc55e51da6096b691d62733ae02ba2be089[m 8.0.0-alpha.8
+[33m3113fa91d6f62d5955b61da8c2c9a7fb90ec3a9d[m 8.0.0-alpha.7
+[33m5c77ddbbfd873948f14322a9ddeae1452349cdbd[m update styles
+[33madc03140bd71b60f390f67af463a770c20603a46[m change font weight
+[33mc1e496fd93597f565fc8c7c37b351caf6984de4f[m fix bad mage + hr combo
+[33ma0e64aaf22ee5042475ecec3778482ccda80a178[m build js
+[33mc0399ef97ebaa5a0f532908ff9358ff110e08476[m refactor blog layout and add new options
+[33mafd619f4989c3aba30251a43ec274d77d795556a[m refactor katex
+[33me806cbf3f522545139faa5116fc781a82e12b8c7[m update hy components
+[33m9e075ca5fb89c822ce9436361a78c6199efbc426[m fix code block width and refactor scss variables
+[33m93ad64b9631abe22a95d6ebc751f52a0b5eb1619[m remove console.log
+[33m7d14bbd2502ffdea0fa68f461f85539c0ae0d215[m 8.0.0-alpha.6
+[33med6bbe2ff054e2ddeb992b37351c374a8b1582ef[m refactor
+[33m5f781f3f480565e8ff8a3957bebcb43178492fce[m remove magic number
+[33m9e3888d2c7cfcab356fbda1e96561c552931e11d[m update bootstrap
+[33m7521076471948060c5f873b2d885405488af6c17[m 8.0.0-alpha.5
+[33m16eaac85414e817fbb7ed09b72acc646a25cca45[m refactor
+[33m6cafe52500f1d0c5fd8ee1e266b22358e60c21ce[m add comments
+[33mbed254f33c0133e9b1e4f76c693ef4aec777ba3b[m fix/change font
+[33m628fe940228a0780e2aecef93318f6b1b6e6409a[m svg cont'
+[33m3262df45ae902c5cb6230725a58d147ff57cb01c[m move svg to assets
+[33m919b16724d275e96a4e6951ad8730f3a4a48968d[m turn into a page option instead own layout
+[33m9c4aafe62e5c5c111f4676a1ca71bf5291a5ac8e[m fix mail
+[33me1ee6fd472862e5ac3ec4522e5ee1abe24f239a5[m 8.0.0-alpha.4
+[33mc0b3b1f8684ae5749d826bb58b7fdef4d0774933[m refactor styles
+[33m5483d093dc7cf8a246a10092794fdd4dd7698de0[m build js
+[33mc6cb4573b9afcd7a8e936e419c955fe98a95aafc[m 8.0.0-alpha.3
+[33m2d51e2da45af01552364505f5c8ebc5b65f5c836[m 8.0.0-alpha.2
+[33m082fbf3df8634212e69fa2a6c522763c4bfbedf8[m add swipe icon
+[33md75dc2395cab6487dea6753ba51bdbd279c71621[m set will change properly
+[33medde6be32a23190520b75334d912a1eb2f23fe50[m change sidebar width
+[33mb3be6fd1f084c60a4071de466c3a46e34bf7909a[m 8.0.0-alpha.1
+[33mdf68935f0634aacd543a160abc5e8fa94579f291[m make sidbar grabbable
+[33m625b6356cba6b5e0d33aaedd453fb22817506f53[m dim nav bar buttons
+[33m552952ee4129437809aba874002d059e2e00f554[m change sidebar width
+[33m90ed054936a2a0f02429fb2e262b37d4fc268741[m 8.0.0-alpha.0
+[33mbab0250b77d9662c4befc3b640631e9f80f8ab9b[m bump version number
+[33m1bcb54ad07d45bc4eec9d9ab9946c718c8ca2b2f[m wip
+[33m4179a570dc636b3f55a4b1fccef08de1fed867b8[m avatar cont
+[33ma270ab000332943bf8418ca4c86c265ccd0ca6e4[m change responsive content margins
+[33mc2c380e4257ad731978d4967631347f00705f5a6[m change sidebar social margins
+[33m93a8d0f0efa5b02bc9d31cb056ee63f83123e936[m change avatar
+[33m5b6f0681f7057ae4b34d3c21221c00f58b65f5e4[m fix css markers
+[33mf15351d416323e2f22f00113e7f1bee4422658d0[m fix
+[33m9266692f778a377b871333a8954eca7f6766a258[m wip
+[33m403d63ea57778283940133e8c2191e912527f521[m change default font
+[33m125df75f4df40bf8c86b790576ca96660810c1a9[m bump price
+[33m99061ae99c57e928f59d99dce410a7713217403a[m fix  #87
+[33m38d9d93537090e537702e955eb7de194083b09a5[m[33m ([m[1;33mtag: v7.5.1[m[33m)[m Merge branch 'master' of github.com:qwtel/hydejack
+[33me33d00b243036eb14983ab821f957207bd0e5b62[m 7.5.1
+[33m4a56690d4bb61b660c3cbf9a381f9d56b074ac71[m update changelog
+[33m3a79c08e5bf65937a0dc327e7da05ad97bc863de[m update ruby deps
+[33m8766ee4f8b94424215b9a021d81f4e4709e3ed90[m update hy-comps and move to webpack
+[33m6268683738106be721bd0f212157005b8b86c134[m add release script
+[33me6b9522a5ae1bfdb82660feda4ce82ff607b8fa9[m remove .md file
+[33m7436bc0c0baef64ec18731b6546056cd9a0286e0[m Merge pull request #58 from imswebra/patch-1
+[33md54e7b68c55b072ec5ac12c75e179f14a573a287[m Spelling fix in "Using the blog layout in a subdirectory"
+[33m8ea2dacf88498c6fa5296590fcd56cce12a651a3[m[33m ([m[1;33mtag: v7.5.0[m[33m)[m Merge branch 'master' into v7
+[33m2fb4bcb9273e3d6d545f53ff76039951f66b9084[m 7.5.0
+[33m0d794c52b1b40ffefc64ae820cff79f5493e79c6[m fix script
+[33mfb897e9bd06aa5cffd90c56a29e052451b836b25[m update content
+[33mf857bdd372220fc2bee3b785f199f04b5977b552[m update changelog
+[33m18dcc4c5cff1633124dcf37346e59cccf87e581c[m change resume print layout
+[33m46a28ab3e7bb1ff0ea4d3f7e851b73febb395c78[m improve resume print layout
+[33m91844986a283b8920693d3f3665ba5a284a173e7[m remove comments from print
+[33m892b48f2ef3adc41dd1395a3201e805b893ce7b9[m refactor disqus
+[33me23b2978aa8f75d271e8204dceabcfd5627d8ed4[m make sure disqus loads via https
+[33m7eaf4ab4805bded0b15d151f05802434f26597c2[m fix #53
+[33m3d543506d4355a127d4751c659fea5b63618cb0d[m set font-family scss variable
+[33m62ad7846f1020f23e9f745497acb8a7fe42a3487[m change example content post
+[33m2b588f46a1ab3b176e59715fba51b36ec9dbae3a[m make permalink icon configurable
+[33ma92b2a19fe55305ccbed307db784be3c44f13f53[m refactor templates
+[33m530ff351f980712347a56f593d46023f9cd298ac[m improve print layout
+[33m38b751e90722f4bf6cb0dde701f3df82e02169cf[m change print base font size to 11pt
+[33m699d8ac5afa2cc8f066e0443cea6055fa4d6023a[m fix #52
+[33m2114cf437b6004f7232b0930103f010b654ecba1[m make js scrips executable
+[33m63ddbff75620c9270df860af132886df3ae286f9[m use template for permalinks
+[33m0e11ceaca80d0359003f017f27eef141745f6a88[m add impress
+[33m1f3e62880b9b82fc67b026c096b1935b698b2def[m add legal "nav" in footer
+[33m724867fad555116c0328efe1f14a6ebc03b5858f[m unify sidebar image
+[33m8b947e8d2dccf61078749a56491411e0f6084f5d[m Fixing an include to fix the accidental extra space in the img src tag.
+[33m476078b0709356175eb2dc23643a7c0d429c4d30[m Merge pull request #55 from joseph-r-hamilton/master
+[33mddfd708bcfa471e6f557db59a8355def02847d9f[m Fixing an include to fix the accidental extra space in the img src tag.
+[33mb3f3cf4362ddd2b5f74549c942818d0de3064ce9[m[33m ([m[1;33mtag: v7.4.2[m[33m)[m change about.md
+[33m1880514c9c572c971b65580108bf83b978031b84[m 7.4.2
+[33m7d2e8b8768d67384d688f332ccf8777a38c39c7a[m move forms-by-example.md
+[33m05d80fb10a1eeb10f30c242d89b6e0cb142bc13b[m update changelog
+[33me9f6f35efe7d30736763066b56a12edd51ae3399[m mark files with license
+[33mb8d80c68afc54ce8567c8737b78e96a1c7938d1d[m fix strings.yml
+[33m8f93357c3767020911786642e1bd8c2572c229a4[m update resume scss
+[33m7b40f10932938e1580d8b948102e07bfda568dbd[m fix
+[33m334a421db86838266c339ba2b409332d04279219[m drastically improve resume print layout
+[33m28092577cf828e696c4390c62589c116ba6783d0[m change default icons in resume
+[33m392f052005a3e02c1544e9df7d77e7bc83e52d52[m fix license in package.json
+[33m3211e836349fae1c65d8962c29ce5235478cc978[m fix no_drawer js error
+[33m3fa8fd1f64920229c6a6bbb2a3dfac096d21960a[m fix wording
+[33m97180616effe296e0af4e8df2695cd7b622a5845[m Merge branch 'master' of github.com:qwtel/hydejack
+[33mb1985c5dde93d25fe5584a2fde4c5362fd23e183[m[33m ([m[1;33mtag: v7.4.1[m[33m)[m 7.4.1
+[33m98a0909d835bf022ed1f73fcbe8e31b8f12d84ed[m fix style
+[33mcda94bb7fe68a47e7eb418af56a7582c1529cbb4[m fix cookies banner
+[33m6e1b276816244f2ffbc18bd0dfd2c8578c9c5e88[m Delete cookies-policy.md
+[33meed3d94d9ec0a884bfb36982ef2842b254275acd[m remove cookies policy
+[33m86063acea6c164fd287de1a0d9f7febce1bf8396[m[33m ([m[1;33mtag: v7.4.0[m[33m)[m fix readme
+[33md9d8f8a9f05c66aa7bb5ea5c7dc8089d1c1b5946[m fix about.md
+[33m4d9e2cf1527e49949920505ec9ff4bd266c560bf[m fix resume picture line break on mobile
+[33m4cd6e17232ab9609f7f025dd8605201afca68af1[m 7.4.0
+[33m71fa9096018b584b0ae3a7af310c31ad3a35035e[m fix theme color fallback
+[33m2895f97679ab17e244be03b748430e65022bca04[m update change log
+[33mb1e559e57430ff9e468255ddf0f28eed67804188[m fix theme color fix
+[33m7b6682625de5cbd1c08af7d52aa5ba6a9e7f7c57[m add copyright headers to scss
+[33mf012019aca61c44ce6baa6537bfeb9ad95dc60b2[m fix #49
+[33m3287bf98455ffc0de1fde6fa9d5176965016de91[m allow markdown in footer
+[33m62216847924537e6bbcfe334496cb4b8812bed4b[m update deps
+[33m6796ccfb1a069472c1e99a810112dd03d6850707[m remove debounce
+[33m8b5ebce39af35bcb375fa870806e6d64b039bc3a[m add theme_color
+[33m6d80f985f1fa83698a07b1307d1d0bcfce4ebaff[m prevent zooming; let browser settings/vendors override it
+[33me16f211e0fdc47127bf26393cb503f9b18374cf2[m cont
+[33m82f833f12fcf3784f08999ae3d999ecc3348ff89[m change image/color behavior when using jekyll-seo-tag
+[33m6409b2d29bc09ef3b30b4c5ed55a3c5f380aa004[m fix 404
+[33m659a61edf19dee8af674cf6f98deb086707fdc39[m update docs
+[33m6dd4ddc9f26034b4aa624bfa84622761012fb0ed[m link to new hydejack starter kit
+[33m88d8414d3dfd69196098a7a1891f8988cec00ff4[m update config file docs
+[33m18c39b5d7a0b2ac5794e6680d4654e5730c9f54a[m update content
+[33m8e35e1dcefdf223c6007c016a57b858d637901a9[m update config documentation
+[33m1c44c2f38b536e1310f3c92bed287eb5f3452ed2[m fix typo
+[33m85222de7c265661a7fd08342eec72197813e6b14[m update content
+[33mf18dc177dd2c323857bbd21873f162ca6f9b5948[m update copyright
+[33mbc802641f5f6fbbc02a821a30eb06de462d9f492[m update basic data cont
+[33maac4c505f9cb1c119e020268b9f29bda1c13eea6[m add lead class
+[33m7465079ff9e15efb37e8e9d1c4b3e46c87f7251f[m fix post url
+[33m9fdbb8d2d9ec3a4cb37bb505e4af83c0d14a7c5d[m set canonical url hyde
+[33m3bd4c277cea71e7a286bb1c38bb6dc61f65f936a[m update content
+[33m4f1a18ea12b06ee99d80442b6a19147eca4be909[m fix links
+[33m7653766224f0c411e8c09c605a2420803cafab2f[m fix missing external class sidebar
+[33ma3c942074d08d3f79908a02d4b0b562ece154349[m update basic data
+[33m848f115597e5aedc386d1270eb8c86191e83a441[m[33m ([m[1;33mtag: v7.3.0[m[33m)[m fix readme
+[33m1784e94af1e6c41ac994d7447b1ac7680f344326[m fix projects link
+[33mb7135c0a0e58db1a35816db26f03f70c20e1fc9d[m hide feed icon
+[33m8fae250eab14bf65656adccb2c0b391d3fda692f[m 7.3.0
+[33m9157a29a4230a163ea1c987f6d4a9b3f6f6af41c[m update changelog
+[33mad4205a79f04ad96568a429104505ffdfbe3e108[m fix default font weights
+[33m33c29cf2fcc501abe9163acf604db8a3b16e2092[m update content
+[33m9b3557cf270042f64f57265af70d848ddf089bda[m update post
+[33m893395bc4c4ee75f9f7d38b19e3040a24bf87041[m new post
+[33ma066a8d854a50dd700053a6b3ca532cd4b9fe3cb[m seo tag cont'
+[33mf47fe3dd34bd1be5a7893217afe654bf7015ea2a[m make feed plugin optional
+[33ma92086f1bd195bdbe3aad10664d00138cdc3a21d[m[33m ([m[1;33mtag: v7.2.0[m[33m)[m update changelog
+[33mdfead24f4bab4df60a5756382ede93413904e579[m 7.2.0
+[33ma617e54b9a2228ab25fbdc485e93666f2a633aab[m add my-variables file to selectively override scss vars
+[33m6231993d1df5b0a07fe159dd812b138a16808a71[m remove empty line
+[33m32d29645d5b70d6d617fe1fefa8f566e7575be47[m include version number in filename for css and js
+[33m98748e158084c6a46702f62ef21c3a4a7dabdf2b[m optimize images
+[33m3e82ce00307ee1e33b6d6e474f3dc461e51e7ab1[m fix links, add seo descriptions and images
+[33m6947243665706eae7ec1ea9ff1283d9399ba4a0a[m update docs
+[33mf4ce82cae879756e8783833ec90341693bb55ea0[m update uc browser sniff
+[33m6ceaf266248ccd256961c9ff825deeadbd9161fb[m update notice
+[33mba580f33037743f419eef5390ab7080a58316e8a[m decrease draw range on iOS
+[33me8ac4d30d69ed413ac44a35778ec78e36cfc70ec[m make only code, math blocks break the layout
+[33ma68a9d27ca276bcd8c00c3d12066af63e2bd148c[m update icons, again
+[33mf1a3616cc1061e6082debed09e187c0446170499[m reduce font size in icons
+[33md3e81fab1d24d18101b2811704d825de6229fc4a[m set font weights in variables
+[33m2ee9a92c7f0dcbe85e87e3bcc0b59ada6abda403[m remove random from addons
+[33m0507144290792f91eee7b3227c564927811c0af2[m default baseurl to ''
+[33m5cc386b6a8490ef2bcb5938e60a1e551eebc937c[m[33m ([m[1;33mtag: v7.1.1[m[33m)[m correct date
+[33m1c051fa64a845fee6a452921417259a8bcda56a5[m build js
+[33mb84ee16636ef74da1158465488c3784bd14635e0[m 7.1.1
+[33m0152f28b126a912a5bf525deb38d6cd3c883b7cc[m fix ie11 feature detection
+[33mf84b171b28798f26450fe6f92f5c2a8f82b45ead[m fix ref in pro license
+[33m9d32f8e08a8cdbfd847ba7421768ae83bd480682[m[33m ([m[1;33mtag: v7.1.0[m[33m)[m rename no_description to hide_description
+[33m5deef02988ee8da9400d7e4082a7037f0e86d44c[m update change log
+[33m27ad8b45fbc4dcdb8618126ae66e14ed8cab0fb3[m fix #47
+[33mdea76bef31dde1e1c1a5492e175b54706106cc81[m limit styles of <a> and <img> to content areas
+[33meb5a98d8f7709f85e39bcb6c20af110d087cd408[m update authors
+[33m93ad18d96d7e571e6763a74c989267fb0f3e2359[m update config.yml
+[33m20e0c80fab41a8500d01d84251737fc8f4f6b888[m update content
+[33m1170371fdbc41797f12179556644cd77608e5aa7[m don't ship in the evening
+[33m6602323a25f6c43423488dc303d34d30e19dd988[m update docs
+[33mebe51ae1f77b51c315ed272c5dbc03ca37489c62[m update/fix deps and build js
+[33mddf6506212d34e4416622a3ad2689eaee841df83[m fix link in docs
+[33m6ed3ac01fb2ed712ccb920642ebeff7449c57fce[m fix readme
+[33m560d54dfc71ee543bc1e81ab6d086b8bdf3ea13d[m removed author from about page
+[33m2a0bcf5096f399a7df121478a9faaabcd4abef77[m update readme
+[33mef62189a80ceb68ec860f14a3b92e912b513d834[m add about.md
+[33m315fba8bef2f6d2995624b90ae59a4744019a7ce[m remove personal pictures from assets
+[33mc4c5eef0acec5d63ec948fd377781bc41db813d1[m update docs
+[33m4f9539a6eb17c0610890b03f314dff6ea97705ed[m build js
+[33m0ca223110d02c58c518885979f1f78daffde4931[m 7.1.0
+[33m0c850cdf4735dbb22e43c9f5e05ed86579a0fa9c[m update changelog
+[33me0ff4b96be489a57d4f4c5efa1c2331675956ca9[m update docs/writing
+[33m8590440fcc5b77115e64aa0af6edd42fd0827ebf[m add download link to icomoon zip
+[33mc7bb6c93db227e1208844e7472c2d018f10737db[m update content
+[33mfe1fb775b1e54bf9b2fbbe5f8c97d9e947e0f043[m use new smart url feature
+[33m6f74fb675bb6ce53c855aeecee2d6de4c58d4a22[m add smart url include
+[33mc198207f28fa24adca0e245fd1b4437b32bcc8d8[m remove js from source control
+[33m79d42d5bd3894a20af8949ad7bf5424fe6fbede4[m update push-state.js
+[33md13f9a4ef6102704320898f19633ddf84068fb14[m update content
+[33md6d841f7cf1a68635eeb88a806d2c5459b2e0a50[m upgrade to rubygems version of relative links plugin
+[33mfa194227d2420e36710fc349c588a1d433fb9b46[m change author css
+[33m517cc69f3a63f35261f91124ac2f795636203a4c[m update v6 links
+[33m4f4dab11f20d3e47f6cd45cab2666d1c50c41b4c[m update katex
+[33ma57dc59e598e0a049c45d14b857b1c27b6027246[m cut price
+[33m432cd18ef91a67595b28b7e2b6beaeec9b6d04c8[m[33m ([m[1;33mtag: v7.0.1[m[33m)[m update config file
+[33m7ba1b24c13b2aef5937a883c3a6d95cc0e85a65d[m build js
+[33med14b6e6c843556a4011609fa6196ab90f9596c9[m changelog
+[33m0efcf13c7b8b3ce9517d0ed89b88034c13b881b7[m remove outdated example script
+[33m7a0737bf3dbb22a36990b6b1eab4e7664dba7aee[m fix #42
+[33mc079df0b8996eaeb19de75ae2df02f78a2b1abec[m 7.0.1
+[33m47dbf8b96ddae3e4a878b98229fff7dd0f3d5c23[m build js
+[33md90dd836a7daeeb911063f056e9a562e0c924959[m fix plugin default setting
+[33m9fa30dd1b65498ca240f9720fb631dd8a9bc1887[m blacklist Firefox iOS (pushstate)
+[33mfae715e34182a9bf6816517aa593d54a796023a6[m default no_theme_color to false
+[33m723ea01a5697811650295194110fa5f7c5b78783[m add gem badge
+[33md753e95e0529606e99e7c820a56b2613c49b08ac[m update content
+[33m1e3177d44f7fcfaf2b38a8859797c3be1a7100f5[m fix desc
+[33mba7230f9af313a61cb0e8f391399afb691c1404b[m update content
+[33mae2300b23013115d3004a81767422319bc273983[m[33m ([m[1;33mtag: v7.0.0[m[33m)[m update changelog
+[33m7f024c021a8680b8c7997c39e19c5fd6c03b6cb3[m update config.yml
+[33mde4357ddcc421759ab0df62e9c09b2ff714f4fce[m build js
+[33m58c5bf31fc5e7661aa2924b2ddde69e1f1a189b5[m update hy- components
+[33m30e243c54ccaf4e42c5ede6faad4c753e6d6d242[m update js
+[33m23cdbf5737202b1afca4867fa4a24ca2d904d7e9[m update deps and rename rxjs operators
+[33m4cafa1f748ae526535416544e39922ae71d52a01[m update config file
+[33m7d377f4e282b806ab2ff07191df202bd17936c01[m 7.0.0
+[33m496c92ed51e214f6bcbe91a597fc6728479dd440[m add default image
+[33mb8712167ff4d95fb505481e5223fadf11f34a194[m[33m ([m[1;33mtag: v7.0.0-beta.7[m[33m)[m 7.0.0-beta.7
+[33md3b7c9b2191f0d85f7d58c78ae440e0c217e23e5[m update projects
+[33m546edf38feb31f36e5e092ef8db8c2d7b310b548[m update chagenlog
+[33me57479a126b50cb5e464806d597e29e15d8e37d9[m disable cf scripts
+[33ma72b09ac60a176845c5acca2a33999c0c5b0d922[m update git ignore
+[33ma8cbdda0ed8caa044b5df11661188e0986040a73[m remove redundant icon
+[33mf2c5abe82f5d60a01ca7ad3a9708808ad9dec34b[m[33m ([m[1;33mtag: v7.0.0-beta.6[m[33m)[m 7.0.0-beta.6
+[33m36aef952fac069d3ef770579e4ba5963cd87d85f[m don't emtpy content on popstate
+[33mbe1823f64f0c4606171202f8afae72ef6df323da[m fix css bug
+[33mf6dec575d3ec3398f32ca5f35a98d26e51bceae3[m[33m ([m[1;33mtag: v7.0.0-beta.5[m[33m)[m fix (readme|about|download|index).md
+[33m5051e443f68f4993739bb49f74282158e112cc31[m 7.0.0-beta.5
+[33mdd66ae3596453ad1564241148904bc1a9c5e8c9a[m update deps
+[33ma59dbda220d8432740c8301311a312182546b290[m blacklist uc browser
+[33md208b5938d88e9c4097a5c0e929d956bb1f4f85e[m fix sign bug
+[33m41c3fc836d953ebe72bf95fabf14a60c491fed7d[m improve semantics
+[33m1e28b75903d6ba0814e8012a4e3a07e851f0dcf5[m build js
+[33m258d9ab0f6d8f45b0e8a01f026f164d53ac453cc[m fix printe page break
+[33m218e49968d667f19b04d35834cc7414a68ccdf81[m[33m ([m[1;33mtag: v7.0.0-beta.4[m[33m)[m fix build bug
+[33mddf9f7c17ea69837d24d003678165abfed22ac5f[m 7.0.0-beta.4
+[33m598b897c8ee30ab333a2b46f16c674998ac93c6b[m update content
+[33m8acd5c08073a9d4895b6a99118a6318369a8ae1b[m fix pagination and footer width
+[33m62c6b4c3531487802b4df8f8888a09347ef56c99[m update pro license
+[33m9106a22985e191a9a62975428e2090f882763384[m remove code duplication of home and default layout
+[33mbce92dbf70fa39fde7f6c6c726774025b842cbd7[m fix default title separator
+[33mba97af43f8f2d4e8fe3e73ded0a77f0afdec4301[m update changelog
+[33m31365fd208e1cf48e9419728444dd8e1e9979a34[m update jekyll
+[33m135800349c5c82b7c9eed71d99b8a2d65b949001[m remove 'redirect_from' from docs
+[33m35857b7a6004638d8eec204b5ec47c0590287a65[m git gem
+[33m17a096e8273200d7711967c466390228b75a8477[m remove unnecessary quotes
+[33m7026cd1934d4dca3d60aa79ed0a04f09f5e86704[m fix #37
+[33m5ce3c988a79841b415372d918a02639f0a629a0d[m uninclude batteries
+[33m035e68432c26dc4490edbf58b9f9c92f7955b06c[m[33m ([m[1;33mtag: v7.0.0-beta.3[m[33m)[m 7.0.0-beta.3
+[33m80e0650c5ea90179e92042b251257bc9e4a51c62[m include batteries, make all plugins optional
+[33mb9e87e2cc7e41c7a3215136728355d30be39866b[m update cont
+[33m3fa0179ff2491ef3cc4b9bd948de09aed05e59ab[m include batteries, make all plugins optional
+[33m57009ccc8138c1101873aec244f588b7d2c71276[m[33m ([m[1;33mtag: v7.0.0-beta.2[m[33m)[m build
+[33m04e929525460a947db9207d72dd7dafbed48e585[m 7.0.0-beta.2
+[33m98dd9af482d5792dbd11a693aa5ed068f1a94c34[m update
+[33m7a1ca26e112e99a61f3fae0a67fd635475638770[m[33m ([m[1;33mtag: v7.0.0-beta.1[m[33m)[m 7.0.0-beta.1
+[33maaaad58ce7f03cabe0464719d9ff1c8213adea24[m fix build script
+[33m081ece3624729b5113baaa7a0847d2a35a964076[m build
+[33m2b3670e2a04f205cd96eda12b62dd3dfddfba337[m add external css class
+[33m1c1892df88e0fa4cb11e8e7e32214a91fd07c8e0[m add min ruby version
+[33m1fc1749b2d55c75e273ea42fde58101f8d9bae23[m update cont
+[33mbf2eaaf7cecae816409dc3d26af0101acb2e98b5[m[33m ([m[1;33mtag: v7.0.0-beta.0[m[33m)[m build
+[33m977b1ecf37ba7de4bbb04e52e3dbf19e9c4c9f52[m 7.0.0-beta.0
+[33m220c0e290f7821b99f1267aeeb005454b5e18c3b[m name prerelease
+[33m5afb31de7b040aec2146d10005c9aff7f64e78a8[m add 'git add' to version script
+[33mde5dde0a64b8323836fd4381ae109c3458b79d20[m undo add _drafts to gitignore
+[33m8bc4940cdf4878a951cfca7043373b0d62bd15d7[m include .bundle
+[33m1d1adc3883dbeeccbf1bcce23a393a485b213958[m update deps
+[33mf6ce57fdeab1916b8291847bb837f0f831e747e8[m add notices
+[33m57974a8bc339fe1926340eafdac9ac301cd45932[m use forEach in feature tests
+[33mb300445a7c5d04afc7dd31061bea0c86f2ba8ec8[m upgrade deps
+[33m196aa5de6482dd29b065b15f0bfe8dca9bb3fc19[m bulk commit
+[33m5f985131310c716900ffaaf602a106c9cf265928[m add mobile-web-app-capable tag
+[33m2d06fa7e347552359e175d855d2d825c7fe8bb4b[m option to disable theme color
+[33m30221fe6ae0910861d7cae28b3a53b82ecccdb96[m fix version script
+[33m64a53b311f3bb0ea1a23311917796d94f2d1844c[m update push state
+[33m3104327ddc9a0ac1f9ee0b27fac978c206098d3d[m add cloudflare email protect sample code
+[33m454c5cd7f385b7a4d4488ca6bcbe3b91ea327d08[m bugfix
+[33mf72e56768c871a791dd493f4e8d0cc843740581b[m use tagline in sidebar
+[33m48eb056c2aa25f65841066331435381a1e5fa402[m increase draw range for all devices
+[33m9ea6e8eec292755b8328973dfcac253b831e38e0[m throttle drawer resize callback
+[33m30b090ec34c9bf262d8bfa47c8e7634055ddabb9[m fix sidebar cont
+[33m0ced5e2477d74be6cf77bab4b4e5d954a2a94719[m change aside mb
+[33m62ec3e4738cafe0ee8142de83384d7552b32d61d[m update sidebar bg
+[33m882e842d94b53c10c8ca664130c0a77a656da4cf[m increase complementary content margins
+[33m7db98b10effc196c49590ee930d0560d8efa609a[m fix cross fader
+[33m547d076313b5542b953c6e9b7791d425fc5f8295[m fix sidebar edge
+[33mfdb962a8b494cad0585ca2b80f30c76b866085a3[m make flip animations more robust
+[33m4f8214c1cad12db038d4f782ba82c9c5041f7c18[m change sidebar semantics
+[33m1ba598c7af66903f462352fe117c6fb504a81516[m fix avatar.scss
+[33m3e37df7bceaf7f64eadcd5c9182203a59cfa43f5[m update changelog
+[33mce58527c04a3d7a80bf450ef4aee4c36ad0f7d6e[m update css
+[33m14624fe2fcb0f150e9274cc5199ec02e97947dbd[m housekeeping
+[33mc1d089fe27e25118a4646fa779584d06e3421c73[m add support for jekyll-avatar
+[33m15c2e3469ee783e3480d671f4c617d7d05aede0c[m make jekyll-seo-tag optional
+[33m22db5fdba66f8b635d41bf63e4e23648d8b62ba3[m fix copyright
+[33m2601c46cc4b117a9f6fe468e02140be478c6ce54[m build js
+[33m83da3eb984ff3ddf42490e2fb3fcaf7d4d9c86d7[m update inline scripts
+[33m1f1643ba3c513f1907adc74cb1d90f9f91fcd4e9[m transpile dev builds
+[33m8064fb02433a5c782a062176b1cb89f23a2acf92[m update to jekyll 3.6
+[33m2e07dd83910acba96f6e2c1a44b8773606c28e3b[m standalone manifest
+[33mec0de3ba6ed16f8f7d7fe7adcc516afb66f42f20[m housekeeping
+[33md2738a49b7fde89a229752569a31f3b28e7bd85c[m new menu button
+[33meb33beb7f72092ff96f58b4122aec861509b0832[m trim standalone ui
+[33m65873a1ce9482fdd95da04cac70b024c7147763c[m dynamicall change theme color
+[33m0eea47a725cbd829d633699c939e04eace34547f[m ie8-11 changes
+[33m3b8f5ae04bef116b1436b8575701237b813bfbc9[m update modernizr
+[33m2ba095f6ab984e80bcff67caaf6523c542b2d60c[m fix post/project addons
+[33m9731d52be4c713c5b80a0174f8c35c82451d65e4[m adjust version script
+[33m104868940a0668b968939a2ac8d88c4346d2720b[m fix version script
+[33m9e9f769063e1949f77c93f1a1014c7dd53e4463f[m hide scripts
+[33mb0dbb50f7c3a9212faba268b77cae756936d5c76[m update config.yml
+[33m728b1cfa7fdafc6f1d3b53c4490cb2c280cc4f09[m rename to aside_order to addons
+[33md3066932d3149b00fce9f4560d3cfb59edc96257[m rename backwards compatibility option
+[33m371002ba862b5abcc76c08034ee8e0b518c8bf03[m set google fonts in config
+[33mbcf407a7fc9839b5bbd560dc375849ea378d19ff[m update options
+[33m6ac1bea5516bc38a41e123f29af69455f0cb2eff[m add notices
+[33m7bc44a84381b761f7c5e699349309b3899de0042[m fix message.html
+[33m82f4cf1291f62dd47efc26d59ed997c1e35a0701[m housekeeping
+[33ma54fcfc42a75ac5ac42d47c2fea4c99752a6e84c[m remove unnecssary deps
+[33m7b5df7c6e1ae84345705eb2f0286d16764376683[m pro strings
+[33m7bcbc58b78c6d29ab710cf0a9eacc09e3d2a99c3[m wip
+[33m6e2c202aca85d7e2ec260737d99db43ba3958129[m explicitly link favicon
+[33m0b4cf2550441d747d4d7a41c279ff1335f272e97[m fix docs/config links
+[33ma42214368cc0e28a08498b9baaf2e38797f46794[m add makeshift standalone ui
+[33m39ecbb367fa5bba8b256d25c737f21cb698471e2[m use custom elements when possible
+[33md94f277a5ace7d2c9fef54c7075b3cab63f2c08d[m change favicon
+[33m5d4f3dd5bca0f3dd213a8f1a59074e0017fc5eaa[m change blog title
+[33m815ca58474104533a834addbbb301e681a9f45aa[m fix custome element bug ?
+[33mfdcec0287919326e25bac2bcbbdf8c156f264e8f[m update changelog
+[33m56470c86ab95cc09163cf4ad7985f66e604be979[m use relative links in posts
+[33mc622188f9ca15ab486528c5305115cef005ccf27[m update content
+[33m0962858974790601a78d3f5ece28913118c0bb07[m housekeeping
+[33mefc217688a45a252f8d2536a49e98554ed41c5fc[m set drawer draw range based on navigator.standalone
+[33m5be6d22a0370b915f13d5678ce77e0e220584e1b[m undo line-height change
+[33m53d8fbd8b7d1c06ed6179cba69903918f1e1c8cc[m rename to .small-table to .stretch-table
+[33md413fb9a8b665da4b2ecc3b16c09c138eca1abc0[m use regular font for buttons
+[33md8e7e99d1ce76d3c6b6073648f6dc8ccd621e243[m rename navbar button class
+[33m9751c562adcd24132dbe316fb1422a8467433b48[m rename project card classes
+[33mc627675b3edf8793afe39c53397d0119d7423903[m update iconfont
+[33mf25b0c8a7418e251b481a12f65f35c709b99703d[m update sidebar img
+[33m018a92b8c852dd3384593fb0ca14e227ec33e82c[m make mobile app compatible
+[33mfc409f16e070ba5fec425e795cdedc29efdd7a93[m set active state in sidebar
+[33mf959500528d92c6701b0b4bbe374fa44b5e2c464[m replace smaller and larger font-size with em
+[33m3590d830297008a13bb0dd4a8ec402278ffea460[m use small tag for copyright
+[33m556b40311045e7a43955ba6cb32522f85a0bee80[m add bootstrap copyright
+[33m532204303fb41e9cfbd2ff83d5c0579f1be43cc7[m add option to use non-image sidebars
+[33m8bd84fd8e8d3d32db348865e78b11b5c1685752c[m prefer src over path
+[33mb5028c123ef30f91eaeec5fe84ed2242391f6d69[m make aside order configurable
+[33m8daf17c37008cab0fd5c66039e8e4e8aaa0556b4[m rename .me to .avatar
+[33m76ba1ea8130460f6d02532405abead8e99b78acb[m add option to disable structured data
+[33m953db66fcd3bd7aef2b389c1947a473ec37fcc88[m make resume icons configurable
+[33m0b785f5552bb2e8c7d84dd7313b381ee5a60f386[m fix and document safari popstate
+[33md302915d378df699e3f68874664b3bca5b9b4c9a[m add support for arbitrary backgrounds
+[33m6294af29d499e20e947147d132d3bdb06f39c2f4[m fix nasty async bug
+[33mbf9e3e33d3ac188202b7c3d6876fdd100855b46e[m fix message.html
+[33m9eefd250c3f0aa7c07d80753f5a43869cb56123c[m fix print layout
+[33mcc86263d3f1919766cd7074f79567651183edc5e[m use .pre.scss extension instead of ^ prefix
+[33m89612cb4947f745b3c85e79646601c7fa97372ac[m refactor head and body includes
+[33m9d8c45f03bebc9f1ed16d1def3a8805b1a8b392d[m update content
+[33m5e9b020fb0d7078b4d4dc6818b1f634ba2a53004[m housekeeping
+[33me20033b167f4301bf7eb2efae606aec15ce51fc1[m use bootstrap btn
+[33m3199e4916b43d56c0cb346e6952eb11ad39efd0f[m fix pagination height
+[33m6c39c4cfa84d6362c3a6572ecc10f9bf3836ef51[m refactor aside and make order configurable
+[33m8190878223a23c54b57af3b4293e08388b7cc45e[m add redirect_to support to nav.html
+[33m0f5c48abf6d090c21a2e3cf7f2f0bc2338f27cc5[m update comments
+[33m7f3d8ced4b90afbd3238a348b04a7f4a5f364b08[m manage gray tones via variables
+[33mf590fd5c9f0eac867b245ff00c3136c7c2a65b65[m css only break-layout
+[33me3371d890311f2a8b73d969fd860efb4d43b6b8b[m change .lead and .fine css clas
+[33m52d42e777a651da285c852424e3db9c7374d89ce[m fix validator errors
+[33m11c0fbdfd1090c4bd842b05aee067e925a87a7a1[m use ordered list in docs
+[33me1aca1f03335ce83f5947f2504eba03fb88e5521[m add newsletter support
+[33m10675598175ac96dab23b5be76f1a22e5d0efbe2[m add option to hide description
+[33m717269dd3eb1a4f1b39aa0da9d8b12975fd63ee4[m fix overflow hidden on custom element
+[33mb3627ce3f3a5f3854a4421f89b75c213a9e06a57[m change btn color dynamically
+[33m9103ee9c303216f971b097048a5c3cad595dcf13[m update stylz
+[33m28a62a04abcc9dfd93b5864dba7c6c5b01557af3[m rename scripts folder
+[33m108bcc7a707156e58add1bf9e7db62c2771ee804[m change string
+[33mc87e064276ab213a26eecd1f9e56fb9021b698f0[m remove icomoon demo from repo
+[33med63af483fccb3bc9bab25d39e7fb5060285f2d2[m add hidden option to link to random posts
+[33mc568413315f2cabf4bbc8397ab860666d1ece865[m modify scss to ease upgrade process (may undo?)
+[33m1ce83386a0852f4b5b52c87bfe563c1109a86bc6[m strings.yml fixes
+[33medd7ad055ddd8c84fdbd31d1c65785484c1c284b[m fixes
+[33mc54658f13c904eb1224f08de3bf7cccb027bb65c[m change code bg
+[33m2aa0d56bf90b8eb1e73813a6445ed2d268af29a4[m add resume titles to strings.yml
+[33me5e26a6f131f1c0f9e815eb36d2ac18eaeaa0163[m don't extend tables by default
+[33m85ac610d758675beca42e1e63a31b1d9f9a29317[m update content
+[33m682b23b1601b93b1a952c32de722fd805f278e7f[m use templates
+[33m011882ebb36291f3ba46711a95204caf61ca2060[m update icon font
+[33md4f94bd6d462bad950cfd8b100f6aaf0d7dc6bd1[m more responsible use of font_heading in resume layout
+[33m2722574a60ab2820c2e832554f7eb40be9fd677b[m prep using webcomponent
+[33mbc975ccd9ebd06b2f134b2bd6c24ff51fe1fc51c[m add strings.yml
+[33mb892d5a87ccbb59bb894cbe98cc566e5b8ee7b24[m improve semantics
+[33m65c16ea8e327e26fe02c70c160bb8de6aa0dedb0[m use no_toc
+[33m76fe772aa035d5dc57649ee2bab09640ce722d83[m change PRO license
+[33m9fb2ff5cde768e7753ecc73b7039e44cc0b2fe2d[m upgrade config file
+[33mf7616ca16d95c9d0fb9fdbbb43359ccb06c1a487[m better lang support
+[33m0db4d8fbd5811067cab1ad8c8c295295c309e749[m fix table row background color
+[33m8b85cab75fdf609c9e96ead5cecdaa5e400b9dbc[m accept more social media formats
+[33m7e930b24b39ca9044c26cf97ddf315c7c3ee09ea[m deal with missing endDate in resume
+[33m2f2847805695f628e28eb9e4608a94c5f037236d[m add layout 'breaking' code blocks
+[33mf1e2c1c013f66f969aac8ba7340af97ec3a2dbf9[m get rid of jekyll mentions
+[33mc7a98e7373117297f7b99d43d7d7862603b77cf2[m add vcard and h-card microformat to resume
+[33m1435a1942b3b5a7a7702bc5e706455bcd2f0cfa1[m move hydejack options under common ancestor
+[33mdae1ccbfbb392c8cd94f6e40a58af1fd7e4f0cd3[m add structured data to projects
+[33mdb5f57a154bb39025ef93f40d583340a54719de4[m add print page break css
+[33md0238d5c25296f73a681ec1be9df373e22684212[m use image.path
+[33m8313f3fc9da412edf7cf247a513628e3d49cda4f[m fix safari infinite height bug
+[33m4bda6bee8563e1912365f0d01c8a5cb0633b0ed9[m fix table styles
+[33m17918289d92cbfa095bbc80268e6099dd106fe0c[m add structured data to resume
+[33m6f779149b8ce8a1e3e57a5a24c82984a0c2bd37a[m update content
+[33m6afb0a21fcc21d7a3b797cc116cc12a2e383fd84[m replace data-flip with css class
+[33m08a7c2c88c1e16efe82804d93cd80cbfd914e774[m housekeeping
+[33mff3809d54c5e85a144c9ad0e2c2b14e8211b748b[m hike price
+[33m303346ef771db6ae7e40cea13ec0e8e934e8e1c8[m update spinner
+[33m809d7272d58f46f3d802819d754e94adcc4c2aac[m bump version number
+[33ma644a60cc3650ab53143ca0a3bf9758573f8ce67[m update changelog
+[33m80adc7afa2bf836bc8782f7c4da6c27cf53d9fbc[m update config file
+[33m46518cfb0c66760ad3d26e231da2f8b37c0b5da4[m change post id
+[33m5b210b869ec83075b24ca22f9e158b767800502e[m shorten pro license link
+[33m07e0119871733ac43ce33e8a156e6f3b74e5080a[m dirty wip
+[33m12a20af5b724afe70234ea366a0e8bb214200cc5[m fix headling link position for multiline headings
+[33m8a7c82dcb153374f667c8e56e47a4b361bc0c2f5[m update licenses format
+[33m8c347700466e8220b00f37f8be46e44c4373f73e[m update package.json
+[33md8b578ca174426fdb4db171af25711e1bf5d506b[m add support for jekyll-gist and jekyll-mention
+[33m14fb10e72239c642b1f785226603263ad1a747d7[m allow content in list layout
+[33mae8321a79efea87bf2fea8d06d2c1945f1051e7e[m css tweaks
+[33m718c2f4d821384f55e47df7fa259e7bd35e0ea8c[m tweaks
+[33md6b31de62d1cce1911dd4f4df850788432ace2af[m better approach to CSS inlining for projects and resume
+[33md51c63f416e674c2fa2e48d26d75ffc6b4e754c7[m add newline below logo
+[33m56861963c30c4b7e11543fcc8e7a96d092b8b0ef[m scratch "big picuture" mode
+[33m8d8105760b62d782912b54b3d54927a035045ba8[m make it easier to click footnotes on small screens
+[33m4993c71b45e7fe51db679c43e0ef136e02acd763[m make headlines linkable
+[33me0569499f31b3cb0fbbbcc6537b136757e553184[m add reading mode
+[33m28a57728bd75b6f59c9d1b238c1bfd92de1a4fc3[m update docs
+[33m6560646d342160ab31b122758c9cb67e316b7514[m change all the tings
+[33md1c386a8baee186ae40dfe9a69ffa47b42bd32a7[m change author
+[33mb4ce219f7d1d37368a38300fd2460898185ab921[m update content
+[33m3ffbbd56c94a79f7fa50989ababb8026abc62504[m change license formatting
+[33mc519496f5340628c5c7f2105eb6c556999e2c0e4[m move mark external in separate scss file
+[33m1eda5a737d57c2fb606acce1c886b04d8ae5408c[m give h1, h2, h3 different line heights
+[33mf139336e023b26449874da16360bc01867b74cfd[m fix license titles
+[33me6b0e4547255dcc554677a2a457ace8349cf5f0f[m update design
+[33m5e8d7f1975d0714200349350b16763fb70a39649[m wip
+[33mec9b40417181f8f970926b405d62d3f4b5bd6253[m fix sidebar when push state is disabled
+[33md21c726d91522aa6a622c414bafc7ab7b67ec95e[m update to latest version of hy-drawer
+[33m272fb40f8c76c91ea61403ee42a2b47f36c08cf0[m content wip
+[33m1cf9a7f2794831f8cf5fb9b42f280a03d3a1db42[m use hy components and update license
+[33md0f86ce1ce2bb1210af19baf29575d847bb83a36[m update package.json
+[33mdbb81fb436ebaa91fc51e2358d07b05197f7e04b[m add dns prefetch for google apis
+[33m05de137451e77843ec232ee590b540f3d2173de3[m use re-template-tag instead of custom solution
+[33ma87e378ee724a78b8c4a3d91dce12effedfff934[m generate css from single file
+[33m84b1ea081046abbd89466a47b4ad9f1c765891b6[m remove err syntax highlight
+[33md5a1eab4b02bbae7ff139f0f6957eabcc385d994[m remove style attributes in markup
+[33me73ed0df4c748b6a80de60ab426819729c0f5a62[m add newsletter support
+[33mf8725354a86e025e80a7aa826ee7ff25671ca6e1[m use jekyll-seo-tag
+[33mc3ae48f7cbca1a6e610ff1c0d16e55d6ccdd7fe7[m add subtle shadow to sidebar
+[33m0f02ba4ee8bdaa3d2f8b5776863e560759f860a7[m follow no_x convention
+[33m0980f4b9312c230221856f06a25b9973e0bca8b5[m comitt missing css files
+[33m4dcb01e99bdfdd1fd731cd769d820da924453846[m fix links
+[33m1845af2c779ec4205f84eca193a6e27979f3c4c5[m improve development build time
+[33m4dd6ce055c161f79f331231e3ac533310346f0d2[m remove ga id from dev
+[33m8fa4f500948fa5842f6737f9c84891d6b7259904[m add 'none' keyword
+[33m8e8e597645c93feda216838b2f81de4ceb32bb5e[m new sidebar img
+[33mc660e1783f5423e084d10a90407bf17d4b38a551[m update _config.yml
+[33m293e5345738d5920dcdd4aa964585aa1cdd24209[m flavor lato
+[33m0fa2c256db82ceafcf0e14c165061da2730238db[m make pagestyle optional
+[33m7d574a3cbcf7d845a2759cf9f3f08f7691159680[m tiny change
+[33m4b7f6e31cfe9d63d72480b3bfec6be287fcd9af9[m change default color
+[33mdd7511b325fad00f6201b067359e6cc0ae2ba49a[m hide overlay when image is null
+[33ma8cd011f34e8ae9e1d8212f4e3ea51d16b417f28[m prep customization
+[33m6e04f4ab567b461b58d58db1232c5af9fb55faa6[m update docs
+[33m572fcdd46bf5eee98d525f13e338e6a840f07f50[m add big projects and content separator for welcome layout
+[33mcd9633425f8414c45bbb6006594bb665e2c2e952[m[33m ([m[1;33mtag: v6.6.1[m[33m, [m[1;31mqwtel/v6[m[33m, [m[1;31morigin/v6[m[33m)[m fix tagline
+[33m2d12e8798d0244eaa2aa0433b6770a2b5749cf28[m build js
+[33m874793df907baa99129b4210790b376d5be9b398[m update CHANGELOG.md
+[33mdb14f743d4374f50290bbb05dc13ba848c985e9d[m bump version number
+[33m855f76fcf821b6b3806bb744c0d319710915c1c6[m fix pageview bug
+[33mbda0b3893bb9bf260d5d562fb35b3c726cc0e63e[m[33m ([m[1;33mtag: v6.6.0[m[33m)[m bump version number
+[33meed836916e1c8dceb3a43a8aa2c7475ad8570db2[m use local assets and load katex on-demand
+[33m53d35bd602135d2e4ff73f90e1544bf07f2772a3[m remove onload attribute
+[33m433c7933f9886f2d6b71d381f1fcdedc44fbe723[m tweaks
+[33m51cc4ab4908a5ec4c0b0ae8cbeae599670169f1a[m makde code same size as text
+[33m390b9926df0bd9da13e8afdb5d64833400f5bba7[m change header
+[33maf9d12be9a10b5bb1c30a42d11d2cbfe868767e4[m add my-head for easier customization
+[33m2520e1597b2ce0dc95929fd7f1867b90bb0bdf93[m add full name to pro license
+[33m2877626523ea0adb9233ea9e3198c6ecfbc39312[m[33m ([m[1;33mtag: v6.5.0[m[33m)[m make tagline optional
+[33maeb99399bece5fcea1b3f59e897938e408dcebdf[m update gemfile
+[33ma4e4930797066c1093a1846735ec424279dea921[m update about.md
+[33m2862a9358d2f5f49c11aa5c0f5b7fb39f2b358f3[m update gemfile lock
+[33md27c7a84551003571e9d88d187b16db43ff2f7a4[m slightly harder sale
+[33mba705ab7e86c4424798516f226cd2234157c6e1b[m case insensitivity hack
+[33m0f896d534c860168ac446877d9e699b7d6ddd7a8[m update licenses
+[33mb7787b7e8ea69db460f40d2f071a3b2604d9a742[m fix NOTICE.md
+[33mbf3d3c49cdaf45f5b5b44a1147d0f5a21349dd95[m update README.md
+[33m97cb05a516337bba6fd1a94a1bd622f2f5023445[m fix about page
+[33m2399000162c494dff2022692a3bf74e26dfc3999[m adjust license and notice
+[33md3f518faabac53dff9a76a2631ab9e6b740e09df[m fix link in docs
+[33me440e199ee578546da79bdfdecbe907d4253313b[m add docs
+[33mb404ee499c88992bfe962e26674b026dd06d269f[m update content
+[33m56965a9001a69319c61e76a5924061a69298fd63[m add my-* files for custom scripts and styles
+[33me8baf50cd2cd69f35ffa0c1a046085b93a4116f0[m design tweaks
+[33md07a5fa805cd63225f9572bb6a5daa526ffb2c07[m move eslint rules to .eslintrc
+[33m766bb1899e722826b4a017df50d8f989ed73eebb[m update deps
+[33m68b4a1a0e8b97421c7985da076b778e05398a7b1[m sort deps by name
+[33m1e3b308d05d8b0af02b88486618f9f2e0c032c52[m temp undo license
+[33mea56aad09fc8fe422be65e633977c182f5625e97[m bump version number
+[33mf5a78bf96af4c30f9b911ff1fe00407385539a7e[m tweaks
+[33m5ca448e3e3ed809880b176ca4a501d25add0e77d[m change default font to noto sans
+[33m9f7574ce54a5de7ce36fe5700b5212ea6afd53a3[m include download icon
+[33m13f7916eaf70895929f6b7eb6d9ae7c8b6eec6db[m remove nap as default image
+[33m8877558dc435c6c9b396b1844b6eecdcd5bab757[m fix wide screen sidebar length
+[33ma810087de16f7e9f962de26b77af6c698ee8fe33[m improve gem-based theme
+[33m30fec7e0c8972497d8a6cf46e2b9a330e4c4e908[m wip
+[33ma837027f888f53878aab721a4ad0e1ddc5100c8a[m add more disclaimers
+[33m93b1fd6af0c81024232eb01237a10a6a71b9eafa[m use LICENSE, NOTICE and CHANGELOG as pages
+[33m7235a142dc69990f15e02e623398b52257c6fc0e[m increase webfonts priority
+[33m99cabf37961607d07bdc5f86306388b0c926df2a[m change xml indentation
+[33mb762ad8ff61b3fea42eda136989000a04e8fba5a[m use relative urls where possible
+[33m925aa5ed62d840a9b9a438fbc5475105b5328b7b[m improve gem-based theme
+[33maf6091673e7b84d1c388f8d1f1606161721a48ea[m use modernizr download filename
+[33mbcbde8befc00f2abe7a290344c85b523c21903bb[m switch to jekyll comments
+[33m920c6ed56c8de0dd8c69b98be24ae3ad057e1530[m[33m ([m[1;33mtag: v6.4.1[m[33m)[m bump version number
+[33m41be9067d163b038c0ed2b64e612e74e3a287893[m fix invalid color hex
+[33m5bcafbc5eef9c51afd0c4f29e37ce020e1f9d031[m[33m ([m[1;33mtag: v6.4.0[m[33m)[m change example copyright text
+[33m16e8f0d31d3c1748a90de761ffd06383273439ae[m reverse order
+[33me0f38a19ad145ff5f28b53db9e30f724debfaacb[m remove link from blog posts
+[33mcc406a9b1245db0c0c63fe11fc3925a6da1abab6[m update readme
+[33me8890d469dcbbeb57e2c2949b734ab78e1101261[m add blog posts
+[33mc5c4a3d888d882c0ee08d4c20c1cdae8763778fe[m reword
+[33m6d003425e828e10e9895354e4f7d06bfd708b514[m minor style tweaks
+[33m1bc34052367f9ce589cb1e91ac27bad49e94972f[m improve docu in _config.yml
+[33md19b5d110d4ea719833d49a3e55482a3a77b33bf[m remove comment from minified css
+[33m78284cef9b8e772523f77d3f2856690e19d8265d[m add no_google_fonts option
+[33m8fc53b4112c3dd7e2effe103b7001cc6f730a29e[m update favicon
+[33m67ef903846b8ad91b8f2ea82e0494fa50dde46ab[m don't set empty attributes
+[33m07d10acb214e4afb91b0e277ecba0b5952f89fae[m move version number to end of blog title
+[33m1f08833e609342e5aac32d0919e81e5368b29600[m remove ','
+[33m89657731935d89a7d19627004f9c445cc507caa9[m add link tags to icons
+[33md5380ee9e16b9462841c50ac72b67158f63d03b1[m follow best practices for favicons etc
+[33m93cee0696371863bd74c3b223d7e7e64ee8c1120[m fix animation for long project titles
+[33m67e6ff891348c101f107f5f49e7673319736ded5[m fix inline math bug
+[33m974edec5237ae18413c1c7e67dd68d58ac9ec83f[m fix #21
+[33ma144b49987257bbaef641b48afb152867bac6d83[m replace unicode chars with hex representation
+[33m2b0f63895f56677d889107c81b40878d46022f3e[m remove dated blackberry header
+[33ma8ddcdcbbce9366a6ebf167ea9c3e2bd6c5b78ec[m remove margin between consecutive headings
+[33mec4f26068a67cf2303cff0b53b59380af5ac05b0[m fix social media icon line break in ff
+[33m79c0ffd7b4c6689594f4fa3bc94e001ed3fdff77[m add topline to nav
+[33mb892089f26daac8dbdddb8b47d0f75cba4bd5f6b[m update readme and about
+[33m65d133df35933953fd615897d0f7f4e6fac610e4[m add edit notice to featured tags
+[33m287f4c6450c546e74d7b37f073f415cfc124d4b9[m fix json resume
+[33m75c7eae8a18870c931efc6b1c856d75fc54c268f[m remove personal data
+[33m18040ab845918e6ed0981d7d848d43a27417d311[m update README.md and index.md
+[33mf7c4ad10a7ffcf92b67a637aa93e06ddbdaae6a5[m update dependencies
+[33m52c36a1429b217f6c32082e09babd4805578150b[m minor tweaks
+[33m113f660419e83572e66bd1e8b56ff409601e0333[m add _drafts to gitignore
+[33m97632d7128f3b0a0b8869c2d4f83f52ed07c2f92[m fix about link in post
+[33md51dc3e1d2e9f9bd0844b14a505512d45d9bb4a1[m fix title underline
+[33md1d2e3c37954bef6b20bf687ce986418988bef98[m add missing excerpt separator
+[33m9e5ea0269ffde0b4d6fa4e6293c11638151e998c[m use 50% quality images
+[33mb8e4d79bc5721654c7a9a0223c3639833b978d45[m change mail and rss icons
+[33mc6e85e2fb4a43bbdd2d7b396989aae4793ae8f9e[m change mail address
+[33maad98d6f14a3c888e14bfce4761022cf7d9b0d33[m fix sidebar margin
+[33m1421758cc13206f97214d949d37b89d1721c9d73[m change mail address
+[33me2d9dd2520bbd413a7dd8516897d262914e4f6d0[m fix sidebar margin
+[33m0ef5463face737bdf4c680fbeca9d1f90b08653f[m limit line length
+[33mf48249e7ca5763b4c22dcde48855ee7ba33127ce[m update latex css
+[33m6198767899be2d94cfbfc9154e399d296dd201f8[m minor tweaks
+[33m7e30b5f7d72e9b85f2a65067049f793227507f1a[m match sidebar link style
+[33m470e23bf65ea6abccfea1a3fe260424a43cce192[m add responsive tables
+[33m35f17013dd27efb20cd231ff41b2027e622b0977[m exclude package-lock.json
+[33ma4bf48b718c6e7818c5f8f4dce86b6642455dd68[m add .clearafter class
+[33m4361b1350912ed837c5f2469478a1cb9a0f71482[m fix dingbat css
+[33mcb3f980ad18fbf11129496c0aa012fafd1d4b69c[m bump version number
+[33m926c906a2782eda071f81160a684f0fc204168fe[m use hr correctly
+[33m861180616da92a4eeccee43cbfa39d37f859e0bf[m[33m ([m[1;33mtag: v6.3.0[m[33m)[m fix `read-more` links
+[33mb44c45d731b8cc8c9c36bef2babd34ed20a7e188[m reorganisation `scripts.html`
+[33mb76487d4c4c96a9b735b45db996ba2071accf289[m upgrade and build js
+[33m6fb67f7e6d824f0f87bab4a8bf3be03f25d05e4b[m update `read-more` css class
+[33m35c9e31509636afc15006cb84c0f93ab90c3c731[m update about page
+[33mbe3bb18502736d2ce53d3e34e090f84268a73909[m bump price
+[33m54664ebc673c5346a484487bf747091cf4d556f2[m change "read more"-type links
+[33m04dd535f72be5d87d3b59f622453fd1e0f34e120[m rename to `syntax.scss`
+[33m357767ac2a936e970e3d6e245bd28b9a09ea394b[m bump version number
+[33m630b4b80577cc8bb7b75f68cea7433243e1185ac[m add option to disable drawer and push state
+[33mfb13948cabb457d3ce70fc2318d388515c2043bc[m add header to readme
+[33maa74d1e71645c7a27ad435f71f2dcedcf464c229[m fix js
+[33m8850f1ac686a1a2960bceb87af75c37b5faa91da[m[33m ([m[1;33mtag: v6.2.0[m[33m)[m remove resume data
+[33mad8eb8eaaebe517d16248645abdcb40dd1db0214[m adjust for download
+[33m8ef8f30236c827c3b6cc1985343e1ca8fc47c8c5[m remove {% links %}
+[33macddfbe9d8744ecff2044b1d81e4d02cbb099ffe[m update docs
+[33mf33e3d0f04f3c35ec28fae62a86b04b2da1ef0f0[m update dependencies
+[33mfa7e0110adaeae98dc140a3701ab52669a9908f1[m minor tweaks
+[33maa98de2a46417967d2ca951fcb632df168a2a625[m additional marks
+[33m7813248c6c9c351df898b4c586179244398488a8[m rework path and ids
+[33mab03c710fbf0cd2027b36e2b9f49b52864dc6d0d[m fix js fading bug
+[33mab1076dff5e700502a41e2f6a935355b669df10a[m update content
+[33m284de829f454514b76d2c585ffa8698292ff4554[m change color
+[33m866fa3d314362478bb6bb5de8eda141931469ef9[m bump version number
+[33meac040ecd5cfdf2efce7d9a34ffe6f01ae5e2a80[m remove gemspec from exclude
+[33mbb358e148e46397826ac57da02e4be86efe39e62[m add disclaimer
+[33m99ac698329b5007124fb52ed211958a40a677fdd[m update docs
+[33mb8fda7862c4f62f8c2f7998518727b08d9c20bde[m  minor tweaks
+[33m20768044112ba6ca1588726637a0413c6918e20f[m add download page
+[33meb372d6e498cbc58b29bc6874374139f48d4fad7[m change default image
+[33mf03cd876193dc6b2455b2e224a9726f2929b4157[m drop special styling for docs
+[33m994535167fac72f0cb4095165a86d36ce736013d[m drop PRO in name
+[33m41f103c426f52b5b298b0c78797a13648b3bebfa[m[33m ([m[1;33mtag: v6.1.1[m[33m)[m fix demo links
+[33m1d7ebc5c762e187a3479be3a94b47133c03b4d4e[m remove gemspec
+[33m9af696079cb66c104caed23555df3aaab7c6d348[m include dependency bugfixes
+[33m87624af622eae322db26d9eff06edfa1410cd77e[m bump version number
+[33ma2c5bc44adea7ba8889a299438f72f2d1bddb56c[m excerpt separator demo
+[33m31de5158068f8e321c4bddf4892eb5067569ab6d[m add support for keywords
+[33mf8524850aec23c7eacf551d3c2c99633eacb45d0[m support language configuration
+[33m2243f299d135c0fb348d1d7fdb1462ec4cd0ec8f[m encapsulate author section
+[33m70a8bca189f7e6abac4439ace0a6d15211bfa2d4[m rename to 'Hydejack Pro'
+[33m12ab0dbee9154d98af13f270ffecdb983a5890f0[m[33m ([m[1;33mtag: v6.1.0[m[33m)[m update banner
+[33m2ae77b4ea5d720c178616af220c2ee0e4c26a903[m give credit
+[33m6e2c0f33e30f5c2b3562dbc87655836f7f096545[m update README.md
+[33m91e5c55b0ee9faf740e611bd17425b85453a90c5[m update README.md
+[33md09af9fc61fa12f3ef355d82ceaaf2814b46e250[m update README.md
+[33m25f9e3c072efbfd0eef8411929ee412e9dc3ec40[m update deps
+[33m0e217846ae039997172d3216feff0d8d9715db0e[m new stuff
+[33m83b6f2bd6e0ef1fcece875db20fc274ef86e4182[m add download button
+[33m3a717439646bcaea185226481b0f3f1aed5b5bca[m update versions doc
+[33me38d2e52e4d21495c942cbacdfee8b945df968d8[m update uglifyjs to v3
+[33m101549c915857a6cfe2529faac78e02e78ddd703[m fix dir name
+[33m63203e3492238ef74ffd007b00af192649105401[m bump version number
+[33m5aaf52bda68e74557c458eb00fa365b9ead0d73d[m link to online demos
+[33m9328c9ca0cefc5ff6e5ca4754a5cf29cd06a1dbd[m inline licenses
+[33m63b17ac551e0aee22ab610bdc7013ecfa21cbe29[m fix print layout
+[33m09ecad836d9e1716f9417b98865d2102750bd5e5[m add documentation complete
+[33m94a4e027bdc41141752f376327924ed58602b77e[m Include protocol in absolute URLs
+[33m235cd5e3e0169e0c7ff12b5ba55761395e1dff18[m add version history and licenses
+[33mc89e502892556928625edfa1cdf45a2bb3f89836[m use absolute image urls
+[33m904dd7ee707a6e0fec938653fc58763910dce949[m fix config doc
+[33mf255686b44b06ca0876583a27f8da25ea2a146a9[m update versions
+[33mc4980e4eb5251f8d6fc16c90a35f78e52ce0e2c2[m update release text
+[33md341b449222fe64ccfcaa87b63029dcc4f12c962[m[33m ([m[1;33mtag: v6.0.0[m[33m)[m change date
+[33ma126446baea74a87b03cbfc830f8faff08fc36c6[m Change to 6.0.0
+[33m171ea104a06b127ed4b1deba9c73fff134325d0a[m fix style issue
+[33mec042358235c58fbdffd5deb1a15f52f02c53819[m[33m ([m[1;33mtag: v6.0.0-rc3[m[33m)[m Change to RC3
+[33mb7264b9d3b4fabf84bf6bb0c712053ed89502e1e[m style tweaks
+[33m04fe1631aaa11fd74929ee1fcff44e58d38332de[m update npm dependencies
+[33mb70811ba7bee5411d4bbcc06e1e12aedc7634b05[m separate article from aside
+[33m8b973c13af9c28639429ba9e6abc76746f232ca7[m use absolute paths for project screenshots
+[33m1ed87f440728f1d13aa10834c62d0d0a6e22489a[m update gemfile lock
+[33med01f75ae60f913d048d78e01259a88350a49d9c[m[33m ([m[1;33mtag: v6.0.0-rc2[m[33m)[m Change to RC2
+[33mef829e54d679ead12863e308dfa1162c381fd3c2[m[33m ([m[1;33mtag: v6.0.0-rc1[m[33m)[m Remove beta tag
+[33m9dba4f545029f40d8a7568f0871c973a9da5cf27[m Change to RC1
+[33mb55cadda5974885e118a9d5fbbf34ec96f023c61[m add navbar and tweak breakpoints
+[33me4ae895354c9235ecba6537a5b3636e5f035c6d6[m add warnings
+[33m89b2d30158397622cb7fdd2f48bafc72a24a20b2[m Revert "Change default image and color"
+[33m7ab30f03b7bfe87b445009bff14b7141180516a4[m Update README.md
+[33m5043b73997f2daac16586af71c9982e7280c1cd3[m[33m ([m[1;33mtag: v6.0.0-beta3[m[33m)[m change to beta3
+[33m3aba8de4177b46b8b412cb0818c7664918616536[m tweaks
+[33mb850eba168011eca49b4d1d4598292e05f695f0f[m change date format
+[33m1aa602ecbcb087f66cf45583edd87e022832b491[m add responsive preview
+[33m125c968666171bebefa22197f35d692ecde4ea3f[m Change default image and color
+[33m3fe6d40b10b6bc11cb59f5c5355921ea498999e6[m Update README.md
+[33mb3b95fd6d3ca96157e8cb82304d93189448640de[m Update README.md
+[33mace868bb16c7dede2a86155a3056c661477c9e27[m Update README.md
+[33m19781665057f8e5a0e5f8494e529c14db4301e84[m update documentation
+[33m01f7c94d5e3406ed23d20705324032b2737b2b56[m tweaks
+[33ma9a814d469a00431ec8c660ee5972d8ee9930963[m add documentation
+[33m9be376f2fbef1dd0b3b70dd1febd5292ffaa5aa4[m fix gem-based theme
+[33m173811d08c819c9df67c4d6a3dcfa201a49d3d2b[m add empty project.js file
+[33maefbc38bcbc3959b95eb0addbcefd0bd793c793a[m add chapter on building
+[33m20a1a49700a8242892d2634658995dfef0a8c2df[m markdownify footer
+[33mc6a09a0eb07df0c2b94645daf8b7966d9c9dfd3d[m[33m ([m[1;33mtag: v6.0.0-beta2[m[33m)[m rename blog post
+[33mefa3e3e39b07d3e04d9a6bbc02247c1b06315c4b[m Fix sup line height
+[33m533382b2a091eb097f45c623078abc946a0778f4[m Update LICENSE.md
+[33m8d81fd5981276548e37b03c4ad23042dce0398c3[m build js
+[33mad51caa305092a523805b2f346f26d7498265d1f[m Update README.md
+[33m4754fe957e1841085e6020b001e4e2b6fc7a7450[m add /docs/latest/ route
+[33m88c61f9399e0ea731144528c19962b0b092299ee[m Update Gemfile.lock
+[33m1d62d24222c669b4561b52d1ceaeaf48a4172070[m update to beta 2
+[33mee162447251ecb44ffc8acfafe418b3937e9f17f[m improve theme compatibility
+[33mb7852861b4eb847f495f493f23c23704589ca617[m update gem info
+[33m69a35c139e45c1145293a13b1fcc1bb8a6a9b7fb[m add gem files
+[33mec098702a3a51658eba5f3ffde1d19f73207f385[m[33m ([m[1;33mtag: v6.0.0-beta[m[33m)[m prepare release
+[33m393ef852c294ee4564bb6e27f6df6ca17c30cd50[m update to beta version
+[33me9039e1d290a8779bedef11d19515e7346bb83eb[m documentation wip
+[33m65bda63ce301c260612e9e723d699b582cec5629[m style tweaks
+[33m9f9b8d3e617b05e57c03a3d3254ad6a776587adc[m change breakpoints
+[33mb1c508d372febe24c5d9617d034b050306ea0230[m change link style
+[33ma4178c032c47bebdc5b8bbedfe69bebcc6d28b4c[m documentation wip and tweaks
+[33m7b4cce29e82904c5a7a6ad8f625b188822022cb9[m documentation wip
+[33m332bfcc2183cded76bdbb78e7085b8f1728c3c1c[m documentation wip
+[33me56cce7d254bbb402877cf24aa1991c1e65c4978[m add empty file
+[33mf72f2dfa468935fea6467b050800cbfb4cf10b46[m change folder structure
+[33md9a1dc6f4e2cab4e6e25875d69a690f66592ab7a[m documentation wip
+[33m9b3e0c0de3e5d017572eab066b62f71ed65a52b9[m tweaks
+[33m3a195f0ab2e32e9cbec28f38c8b41feb1c312990[m fix projects link
+[33m24e025327289654dcae2b354b77853a1e52fc1ac[m style tweaks
+[33m3254c5af58a55b7a487c6723b6674cd0e163932d[m make gem theme friendly
+[33m35f475d2277563957ab47ac94b3d924ea6f5a48d[m use icomoon directly
+[33mc554ff6f0233a2baa3e3fa02730536f87a179beb[m update npm packages
+[33m4825d1b2fdecdc4d561dfb95ef9dcf8e4ef009b6[m fix typo
+[33m1339ff4d76f4ba909bca8a55321f4f087074659d[m use relative_url filter instead of baseurl hacking
+[33mc471c22f9178e45ce3b0e3f6a902b7d76e5ebfb3[m use resume.json directly
+[33mb36cdc2e18eb43e493ac0ab48c08c2de7de98dce[m simplify social media icons
+[33m6b1019049dfed77b6380bba753a47e831f2a1ae0[m Rename public to assets
+[33m12d03a31cdfd3b7b87c226bb1d4ce5a2487df29f[m use id as id
+[33m13e63c1fb6b193bf94059e593c7e98520394929e[m style tweaks
+[33mb97ae4ed4f93fc2925f9aae3ed1d1ad58c2e702c[m change project titles
+[33mb4cd2feed84999380098e67fdb690a5127c3e474[m add projects
+[33m5167af39af2f30ba6f8863c9478b2ed49bf60a02[m fix comments
+[33m970161b4500cec23de4f8999e554c4534d213324[m alpha 2
+[33m1f37d1924b077ce91c7a5be8c867c47b2e20a12f[m fix no-hover
+[33m0135663c54684cf659521baf1b217d8a392d0f1b[m tweak things
+[33m61c9b8d9c9e8f13688903c951ea2f3b45d7c37b8[m tweaks
+[33m9f897fd76ebcb72949bfb2105d865d20d4ed7a82[m minor tweaks
+[33m171fda9c500a69c78ef9fc3a66116634762e772f[m use https when possible
+[33ma1ef0c2871e5a893d6b7ff7f9541cdd1b0e947e4[m quick fix sticky image on slow conn
+[33m3597efac01df8c6b3be46ad0c40e9ede324659ef[m fix invisible font flashing
+[33m74a39d68c29b54f6ece32a69385902559a69ffef[m fix columns
+[33mbf2dd7f268590d9a2120613ca1d9338208e57f11[m bump version
+[33me36792d00060f265f2371a8cedd44c90984b2de4[m redo css
+[33m63fb55a2f8acbbfbc1223d30e641c5d49296439d[m add minor tweaks
+[33md19ec9fc68ec548df7ecfb14106992d557d129a1[m fix resume layout
+[33m9b4bb8eed6f3f13a67464be97410358254eed0b4[m less crude sidebar hover effect
+[33m59155514f774fa7d914d881335fe0f5f7b59737a[m show social media icons on about pages
+[33mbcdd8b9b7bc507d25f884b968db917ef09f0fd2b[m fix projects print layout
+[33m6e67798fea451ad8a3f5037063946c83f8c48c41[m update authors and add footer
+[33m85bdeb3a07edffe19934cecbeca35ec91236693b[m use jekyll feel plugin
+[33m8c7b39da3c3a1540d001815fbee79ccff92c3671[m update copyright
+[33m0bc2e9536a45a199a653a99abaa8dd4798c5ea5b[m fix IE
+[33m7f4d05aeaf6ef1962d9f713b8873d10cd6262aa5[m remove flexbox
+[33m3b9608f1d01b836320abaef862df29cd89bda860[m Move spinner to js
+[33m692a2550263f48a4b1b1805f25228087298103ab[m add so much value
+[33m34ecbd7182a4bd14a32de0b0771224c53a5bf5fd[m add category support
+[33m9628f0eb70e0eedf79ea4a2592c300f1e9b34a0b[m generalised title logic
+[33m2b3e9786dfa4002df9446ffc04306a271d31331a[m updated tag support
+[33mf14a9835a0b04f29b688dc21270ed99570a979ce[m fix warning
+[33m11c948409b29747d3fd710689b661af84646d288[m fix related posts
+[33maf420af3842432e744337fdbd3d97590c399ac71[m use new tag method
+[33m87aa26346096f713524fd5943dc282d70eb8305d[m scss cleanup wip
+[33ma62ca0ebd07cbbbc24283227d0edbe795e7ac8ad[m resume layout wip
+[33m479bf98b0de62e3872f505cd7a82ed8e1c750417[m brag layout wip
+[33mb56653526c47dd9523fd6085d5db9464a15e2a3f[m update google fonts and add docu
+[33m5abb8e2b7827d6f4ea77595759e4549614905763[m fix menu location on big screen
+[33m22405c6ed65f3bcdb6791bdcfd4bad7a94fc9c8c[m jump directly to title
+[33mde54d1a2e92511097449f17f7bc5d255901abb0d[m use safer global name
+[33m58b05a9ef31a35d317206b6925312d8d490642a0[m change qwtel.com from http to https
+[33mac5192d13b63a2cca4ff47961b3a0c5fbbc0373a[m move content from _config to data/custom
+[33mff73b0b7ac68702c4c9ffaf82a76fe1cb19023e2[m test different easing method
+[33m25a04550796a3f1b53c5b09c49e46b93d9ef9fe3[m fix delay google analytics
+[33m858f0631ae836b442191407591fbf52299d3f088[m version js and css and fix sidebar flickering on load
+[33m8c53fdc6415c6d162f0011f1cc03044574bf3017[m fix img srcset sizes
+[33m77e3c6eb2062ab89c2476ce9fac928bb4a616bbe[m Fix bug
+[33m1a667d9351accaff523e622c7ee41a6516c7418c[m cleanup cross fade code
+[33mc7272a90217559609367f36f3c26348f95077fc6[m use more expressive names
+[33m7533d3494b947e279401aacbf649416ebc7e037f[m fix style issue
+[33me3cff45efc64ff6663a947750909ad2939c45317[m fix can't read property of undefined error
+[33m556c7bfa5441abc8117ae6a42b5656595f02a1b8[m make ids safer
+[33maf46a2c4efa9f61cd6e17cda08566b8729160605[m use babel function bind operator
+[33m59ca16b4711bd9e98e932d0d9470fa43fd945873[m increase fade time
+[33m697f106183d7b53ce6029d7594191a0e30b0678a[m cleanup css
+[33m607217ed0ced772fbf00726131e4880f569b0e31[m scroll restoration
+[33ma790fcbcdf137fbab934fc91c7543bbdfdb3c064[m programatically generate shadow main
+[33m3a593da2febb79c24dc48d02f39b7daf7daad9a3[m optimize
+[33mcb77e761611bbd47a74461ca63d6fb9596f44aab[m wip
+[33m55abb15e433aabd58ab788d2473863486cec941d[m Release draft
+[33m90fcc607a0423309f4485ff8748562d4b9759a19[m Hide shadow main via opacity
+[33m40e58d515b2407a74e3cdf5413cd38736d88d891[m Fix previous image srcset bug
+[33mb2ac8d0eed58fc7a19bb64659cd3291a8425922c[m modernizr: don't set classes
+[33m19f17e5b9ce86a744bbfcfab81074befeb9cb817[m meme me
+[33m942135ffded91c8fc82af44871fe69a66634fd0c[m Refactor srcset support
+[33ma13ac1e76690e88ceca23042635d019c46828967[m Update webfonts.js
+[33m1493065e4ed942524aa821656e99d7efe44dea27[m wip
+[33meb201a68c3c3adf30b8f141e5f8eecaf120171ad[m cool tip
+[33md2437b30d5dd4fc9b40b280e7828e1bbd7c09c76[m wip
+[33m8bddbe54d1a529cef68f7362654b98e8a8e09887[m Improve cross fade
+[33mf1fc903eb9ce6cd5d1d4fe01f7f007945c037b06[m Fix bug when project has no image
+[33m4e03afeb40aa222f598dd1bf7b94ebdd32819c05[m Refactor projects
+[33mb9a29feec809832839d6e992c6f46e09bb630193[m Fix z index issue
+[33m91f54caf47195a52e434f8c4c49261bc3bab5242[m Merge branch 'v6' into projects
+[33m2a83bc1a273722fef2863bbb9821c6c684f228d8[m cross fade images pic
+[33mebccb41abe421d6d668bb51ede3ac98955a40e1a[m Fix placeholder image flashing
+[33m5200caf758a148c84f7bee807f6d530756543662[m Fix z index issue
+[33m4ca90cb10b6c90855bd0ee7a874060fcc5aadd70[m wip
+[33mf11285f78ea474d1828879c843debb2598bed479[m Integrate flip ready in rxjs chain
+[33mb657ff5f575e26b26ac4761ebdf545df1cab3fc6[m build
+[33m15efa60bcdee0278cfd1e4200e734b377bbdc3fd[m Merge branch 'v6' into projects
+[33m7cb087dd07b4c63507f98748886ededcdcf9091e[m Add loading spinner
+[33m25b89cddfb4545ce0c804d1b0d270e3776a824d2[m Fix scroll bug
+[33mad93bfd787bd2b049b5d179a3dae43a55fca1659[m Merge branch 'v6' into projects
+[33m2574e03dfabf297370e820d21b03af722a5d06f2[m tinywip
+[33m6cc77cc798164520048922a4cc0cc75ebc197a96[m wipwipwip
+[33md3def71634328bc5ba15657e2d8f9cc9708050cf[m tinywip
+[33mc5c5ab7ed48ae055f77583f9f9ca3582d049e142[m wipwipwip
+[33mcb5d7942feeeea43ce757af279b92524cc1298bb[m Merge branch 'v6' into projects
+[33m915a3b6ba5ba96f95c082828f045bce2cd9241d6[m wipwip
+[33m9c4f327d82adb515d1874d25451a41cff3bb0a08[m wip
+[33mec9a3b1a9cd96f42797ea0fe03d6e5947974cf69[m Fix menu icon z index
+[33mffb393917337cfa798c5ba020e6db67416f6a20a[m Font
+[33m9e6a412a5c0074319d00cc060b1ff4c1d45f77a7[m Unuse web components
+[33macbfd27ed8ea462850533540d848d1ea26e72b40[m Update responsive breakpoints and layouts
+[33m262a0eaf562d9b88991d6a442a8b39f4214ddc4a[m Update
+[33mb16c81984db10d8d845541fa2b0191bca1761207[m Update
+[33m54ecc23a88dc15cee4960af8c1ebadcbc69a317b[m Update
+[33m162e743cfff205ae41be5c1a44975d3d27819059[m Add example project
+[33m03b8b4633aa6e8f61d85f222e09f5a7533cd123f[m Merge branch 'v6' into projects
+[33ma82ab02fb79b7502672cc1a96694b24e0228182a[m Fix archive link
+[33ma7f64ad71e3f5f2329b9ee1116d5e4dc9690e489[m Increase line height and text contrast
+[33m8e502c0597c88fe9395a7402b073c68570e7cb0f[m Change example headings
+[33mf168182db29178e57e34305b769a766cfd006a86[m Merge branch 'v6' into projects
+[33m17a0028d7eb00dbdc8c20c8714bfb61c283f729e[m Use Noto font by default
+[33mdcec2ea50f6332dcc1ec3b3f42f045cce11f9487[m Use heading font
+[33m7508813975de9f391067c37adf034581549410e8[m Projects support
+[33m6696480034e64ad4d9360ae86369cdb40833c3d2[m Update content
+[33m40bdb38b14511b0e709f76d26b0bd400a77dbaf1[m Update
+[33m5da4ed4bdcbcf29c2b7466b9597f626395b67d63[m Refactor
+[33m1f7fb41a96ba30850ca098b185a3e8ba88445371[m Add dependencies
+[33m9bd45d55fb5651fbde538d398412fbedd6098b99[m Add figure + figcaption support
+[33ma620e32146e6cd46dac17b4b3ac6241822e93a2a[m Refactor js
+[33mb4989d11c0d7e229c787f2138d302a20295738a0[m wip
+[33m190772663f445f984e880bc2a9afa272f4de70fb[m wip
+[33m84b4fb97e0988ec34566ab488832fe2258acc075[m wip
+[33m18dd0a09c0d0be7da8a69622c135bbc5b24ad922[m wip
+[33m506b56a86276d0f79f5c8151785c5e21dd38ce41[m Add JS page transitions
+[33maad0bf6f87b977f6592273fa7bc5539907876363[m Update y-drawer
+[33maa0a0f9b63b772513ad8463da3252d4929f0d663[m Load y-drawer via unpkg
+[33mfa4241bd1d1099552fc9f36ef66aca1c1f6ed707[m Add linter
+[33m1d94575e444a2e8c988daf846df8e24ab63a9f91[m Use y-drawer
+[33mfa221468c81373f149e9c3cbccd1342c6ac12d5e[m[33m ([m[1;33mtag: v5.3.0[m[33m, [m[1;31mqwtel/v5[m[33m, [m[1;31morigin/v5[m[33m)[m Fix a11y bug
+[33mba4dca973d4637fe8762d445496ed2c03e45637d[m Change config indentation
+[33m4047f5976eab2f5f09a583a74ae412826d541b57[m Reduce FOUC
+[33me5b022e41bdca2b85b102bb8b7b460f21c68ca7f[m Improve loadJSDeferred
+[33m93cf4caa185978439d8d52f88c677be507d261a2[m Change math support
+[33m3fd7d5aa5f03ee24f405faa026c4bfad6e0eea7e[m Improve a11y
+[33m39fddfbdf2d1023caf54c3e0f7e0606c86c7da70[m Fix dribbble
+[33me50ef985904dc21d88079e4871663dad8f9be988[m Improve math support
+[33m569413766008381b59102045c31df49c54af3c2c[m Improve semantics
+[33mc525a6915095ba145ae560a2271a894532f88706[m Position menu fixed
+[33m3211332bac94a63d2ddd944fc8c282a4fde0e5dd[m[33m ([m[1;33mtag: v5.2.0[m[33m)[m Prevent structural FOUC
+[33maad8799c612784bb6ff38304756ed91136a9f8a5[m Add lead class for ps and imgs
+[33m07072415aa49b361b316fe939ab72eaff54405b3[m Move 'me' class into essentials
+[33mbbed7976a69ed82e730f732badd9335d09a9c078[m[33m ([m[1;33mtag: v5.1.1[m[33m)[m Fix IE 9
+[33m1601bb2584e416ea761fdf9ce23b08a9549df0a2[m[33m ([m[1;33mtag: v5.1.0[m[33m)[m Fix
+[33mb9368336f973a76c641b537bd7c64b44b7e34077[m Fix
+[33mcdef9f1ce76fb4bddd983a087351137bbf4210ff[m Fallback min-height
+[33m30d8c54c05dd2e604aec624f205aae582272c110[m Update js
+[33m49e196a903e02effd260c263b1199799c665b027[m Fix minify bug
+[33m657f7ae3e0c9cb41b15bd472c42cb6ba1470514c[m Don't load css for < ie9
+[33mf0a7ebfeeee76e6f1f713c88d43223706b467d38[m Update example content
+[33mac0caf61a40dc7f941ab0a0ed2d0b9fecf5c4269[m Update
+[33m27f32436f71d4eeef4a0e7dbe1391e1435da9e12[m Use modernizer for feature tests
+[33m626a5872adc27d18a2484e79519b9db2f2d0e5a0[m Fix unclosed article tag
+[33m9f7b8a128926f6dfce0d8a36028fffdc085b555b[m Add flip ahead support
+[33ma8e1ec5365a8d1fcca62b78b1847793cb67532b9[m Uglify js
+[33m39460a31a8859d628cb9d6609b009e88d8a862e7[m Add html5 styles
+[33mcab836aca85a6e015176c327232754a872d4edf6[m Add feature test
+[33m90e689499ad47810b48ad48e135e141aafa882ca[m[33m ([m[1;33mtag: v5.0.1[m[33m)[m Add lt ie 9 shim
+[33mc25bf68a5c0f68cdd4486ac5d1ed7da0d2419359[m Add release notes as blog posts
+[33m436c19d87963d7cf927491996e7c72bbb6bfe49b[m[33m ([m[1;33mtag: v5.0.0[m[33m)[m Fix sidebar
+[33m99ea12ed48dc46b8aed10d423edab4091a12105a[m Split styles in essential and non-essential
+[33ma05271eb54f732b9a10219b3ac7e03f8bb554a49[m Color focus outline
+[33m63b3f481fa9d2eaf977fdf68a32dad0e1c4e3423[m Math smooth scrolling
+[33m949c8defb4655150fc87b217cb6024dded70387e[m Improve CSS
+[33mdbfa1be4b4476b0761a57d7da90dc0933e90a6b0[m Increase social icon clickability
+[33m1c5d95ca2aa635bff2f66a1a74ed5ceac0a3eb3c[m Remove tap.js (deprecated)
+[33md4a8bfeb6b345ada42434291b9aa20cfe2138cc0[m Move social icons to end of tab index
+[33mf4d97bb97ff159922bab8a3e262b22fcf78cf8d3[m Set meta viewport
+[33m8535c600b92eefb0818328625b0d837f9f39a8d6[m Set tabindex
+[33m115e053216f7bff1112664b75426ef95976c2dcd[m Add padding for iOS
+[33mea04aa14d040403843b2588f0888eeaf93518c63[m Minify icons css
+[33m0ea238a233da29784524a3b581ccd390aafa0376[m Fix drawer iOS
+[33m06e95beb0302ca891478dbd33afeb9fcd108b66f[m Remove iframe
+[33m679f41966104ad3286830eeea03bfefca69c80bd[m Remove comments from html
+[33m9e9e30b24b2d81a7609199c69138ac8ee42d394f[m Add google analytics
+[33m5302a47065b4b8e3245c4606dec6ac25b4523a89[m Optimise author image
+[33m103fa68f2415a6342e70db8bcf69d5cc819b3aa8[m Properly defer scripts
+[33m460c22417dd46874fc6bfe5ba1da69c26345d497[m Defer script execution
+[33mb3c3e57e2432163bd51faed2e453383fa50f3a3c[m Blur images
+[33mfc4d236cd55c306ba8fc4f40b033aa70d1a1161c[m Blur images
+[33ma822cde71d81572044beddb36a2a976903dac42a[m Merge branch 'v4'
+[33m26766f299dfa28f902c96ee73ccefc3bcb5cf381[m[33m ([m[1;33mtag: v4.0.1[m[33m)[m Fix per-page color and image
+[33m1027ceafa3753bf2db6962c7321b5c45ead2d924[m wip
+[33mc7256c04e4d4c221c8de356ff9c98da16cd76ba8[m Improve speed
+[33md7fee7b21b8468a473b046cf24891a79c075691a[m wip
+[33ma4b0f087d3a8c95c83b634cc77f57b85cf155389[m wip
+[33macfff00247b12ed1ecb92bc3d8bf2d2c0db2d574[m Improve speed
+[33mc1cc9597e0a9cab48e76c75c7473adf2319431bf[m Improve semantics
+[33me3b40a4e0d207beaefad9a0d1f7d9a1fc3367059[m Update LICENSE.md
+[33m83e54aaddd2eb313906259be1d9336f0e9e78fda[m[33m ([m[1;33mtag: v4.0.0[m[33m)[m Change config, add archive
+[33m4f6b7c999b8e9b8de7efa9aba5d579b659667242[m Change title padding
+[33m2e5e060b9c168f758703af33e0f99a4de5226ba4[m Link style
+[33m42e06a56087d6b1f7e7d84d5cc2245b67681289e[m Version 4
+[33mc0b56fccf6e28a32df2f318a99cd4b594c1f6c0c[m[33m ([m[1;33mtag: v3.0.2[m[33m)[m Move menu to top of document
+[33m4f7e2b1a56d37193972d63bb3dca19816e0a3bc2[m Update example content
+[33m8471013bea3d4180921e8c4ab9fae249971eb5ec[m Update
+[33m7c25b30b63135d133b6dc8209e9eb6d0a2deefa7[m Add readme
+[33m27edc646153be2c0b9ebf06af86e89e5b3263294[m[33m ([m[1;33mtag: v3.0.1[m[33m)[m Increase line height
+[33ma358a549b2db7e9b63a50d4246b7ad01a072f0c2[m[33m ([m[1;33mtag: v3.0.0[m[33m)[m Update content
+[33mf4fa1d97d6091f43bb96ead61c0a5a9a027fbaa6[m Update
+[33m5e6d5165d3b2ac1553b94239a8d72560d33780c2[m Update
+[33m51ec907b3e19badc8aec2242de1481c002a0fda0[m Add math support
+[33m9a495f10123d88d136370f98d77b78933b6bfca4[m Fixes
+[33m844b1510bc776f798ea86d34a16c163177ca2c47[m Update
+[33m644cd441759a5d1fe66aa037d26ce3acbfdfc517[m Comment icon links
+[33mbc59952e4ddd77b4affa48e07ae06ef5abbb3139[m Update
+[33m401847c145cb7ec513525a89e763359b5146ef65[m Update
+[33mac396c5b5c108b83e90468529417c0f1608a06c9[m Make drawer hitbox depend on width
+[33mbf959447a58d1b182743d0069102456dba995d42[m Use invisible hitbox
+[33m80cbcdcb23c3994e3971bd45392d9f52dc2db4ed[m Chagne classlist on animation end
+[33m331c1c36a0ce554e0a1774c9e3a9f45a60a56216[m Add baseurl
+[33m1133fc03bc2ff6727be8bf0013d67b8453385350[m Fix url
+[33mb658c54faed42ab51cdf2c4b855b34ec573e4154[m Refactor
+[33mde7e4f0956e8ade0c50a30d221c268da5cb4eaf1[m Update
+[33m7c7f7550898e081264d255ef429a134fb00c72a8[m Merge pull request #91 from pborreli/patch-1
+[33m6569a8ac316c138a1bf241ec9368c447a645e6d3[m Fixed typo
+[33mbfb6c762304596afef985a534c0c88616a41a087[m Merge pull request #89 from johnlauck/remove_xmlns
+[33m839136ebdbd7030e2226a6a384eae09606a8c1ed[m Remove xmlns, unnecessary HTML5 attribute
+[33m02a8d5ca62dba57ee2525b8a076b93a5a2081840[m Merge pull request #62 from Tourorist/patch-1
+[33m7bbb85235c6e09a588bd23fe6b6e8b9dc0872622[m Fixed a small typo
+[33me2a6f89a426153e475b962be20bba8d2a0df7344[m Merge pull request #53 from gionn/patch-1
+[33m331543eeff9b99d98e63e491fcc217c232f99ad3[m Changed layout to null in atom.xml
+[33m6ef247edca6254910416e71ee5d79e9150ea985e[m Merge branch 'master' of https://github.com/poole/hyde
+[33m5864eeec6930b1c537df93bb0916f49bb00145c0[m fixes #52: increases line-height on sidebar nav links for easier tapping
+[33mcbe3e4e6d78e9fabc23b8392cee545830d81ddb8[m Merge pull request #51 from hamso/patch-1
+[33mf155dec1486f3dd4cb8d68e4d7584e404d0d4555[m Use relative permalinks
+[33m2ef673cce2892b319bdb9c390af4dbaf3da9c863[m "pygments" tag is deprecated
+[33m50ddcb71f18cccad7293fd4ca160d47d03d83a9d[m fixes #44: permalink url for 404 page
+[33me6302951c18942289063da0f175195193bf47fcf[m ensure IE is running in latest rendering mode
+[33m34a668332b8d307acc52e4abe44db092143052f2[m port in sidebar nav from lanyon
+[33md613ecf5b7a3f30a6d6934e5590cefff10a660b8[m latest example content from poole
+[33mb47b104033f0559549ad85da79072781886605e5[m link the h1 in the sidebar
+[33m802cbd1debc931719a3383324796772a58d7e3eb[m baseurl, fixes #38
+[33m32a86a894e44163e9c59b3e85489325ccf83ed96[m fixes #37
+[33m86717049a037d79cecc3bbcb3f9521fc6ac9945d[m ems not rems
+[33m7baeede18aea945e2bfd09a22c3b43781dd619bc[m latest poole
+[33m6862d74d8a2463dbda18b6be0516d7cf42ce9d5d[m Merge pull request #41 from parkr/patch-1
+[33m580accfc1d9f4a8e1ced5a7c0364c39153873e2b[m Update _config.yml to remove deprecation warning in Jekyll 2.0
+[33mb97541b7ff627a3b30f131b266f55a7f85df8833[m Merge pull request #35 from thaiphan/master
+[33m48b9d1f0fa532a04c279006b5acbb8676e62f238[m Set a max-width for images
+[33m1b8f166a6a28a6ede497922c5f52a0d7fdd0e13a[m Sublime Text link
+[33mcb950a4813abe5200194ad49103ed543ff31a6b7[m Merge pull request #29 from sylvainemery/patch-1
+[33mba30c7cd0021016252e7de90c2ebe2cf8d0fb96b[m Changed "Lanyon" for "Hyde" in the features paragraph
+[33mfb34a69e5c13751577a3bde88db72678a59b0ce9[m Merge pull request #28 from mrmrs/home-page-title
+[33m59018c9001c27226cffa1ce3eb2e45d65909e570[m Fix page title on homepage.
+[33m5f6964ceb9b4676f0a5c1835617b54bdd58c4b45[m[33m ([m[1;33mtag: v2.0.0[m[33m)[m fixes #27: new icons
+[33m829b39f3990cf1dad35ed91fac8d68003597a383[m about page
+[33mad8cc220cefa9235350e4c9ce9794696625e8f39[m readme images
+[33m39c14e903e931236c36cfcf5f9cbd1a4e0b2673c[m don't set class
+[33m282e23ac50c699311253b950284482f48a862c4d[m fix reverse layout and color schemes
+[33m820f796e483f4b45e58ce2c630cb4cede5440a05[m readme update
+[33m5726d5bfadfef8c36c56a3194851ebab16ac2be6[m big update to hyde itself; pull in updated poole.css
+[33mbb68a679d3c0aac363c2dc1d044518822f7af450[m cname and .post-title
+[33m4a61f5a17dda63d96f24be2af3da4bc362dd4496[m start in on v2
+[33m989e5c2eddc7d7f5e2e29bd30e0c36c9ac26f1a0[m Merge branch 'master' into gh-pages
+[33me4b5db5eaee86d09e91d92ac8718c05f4d352c6f[m[33m ([m[1;33mtag: v1.1.1[m[33m)[m Bump to 1.1.1
+[33mc52f7c81cf4791763dfb50894cc147a56c974781[m Update readme with screenshots, and new sceenshot of reverse layout
+[33m663885eeb5fdec06e1af2bd50735c602c036dba6[m No need for fallback color because we don't support IE8
+[33mdc9b52f8329280dbe79dc5450d565ba618731faa[m Update and move hello world post
+[33me1be2002cb54dbaeabfdd07c47f3e90eff1d4815[m Improve code and pre rendering
+[33mc7300c1d6bc4406fb14979f0725f3221907df155[m Don't change color of list item text
+[33m44c86e037ef08ebf564686a995bc7cd95f45a28d[m Really fix the padding across views this time
+[33m5534929b0fca46ac3dbad81320a44072dafbe0c3[m To the future!
+[33m43428a6e3e412a4372558b09c3b81c1ffabed4a5[m correct readme link
+[33m2e84eaa8648196fd0e1d3d26544cf6f99db58820[m Merge branch 'master' into gh-pages
+[33m24dd32cdb3c591e5cb16df1b3037b7eb8b083f8d[m[33m ([m[1;33mtag: v1.1.0[m[33m)[m v1.1.0 bump and misc cleanup
+[33ma9462f13d7cc08c389abbee7f6f378d99375e04d[m undo the masthead and footer stuff, misc cleanup
+[33m853a4666d211db00ce0be92cfe1f8f0b0cea54de[m Add empty footer include
+[33m98c3138c8e4a60f0233675d7c7d0662c11c9cc6d[m remove dupe favicon from 404 page
+[33mf165b17d01b1843e5d20fde7c97a44b981988d05[m Move <head> and .masthead to includes for durability and easier flexibility
+[33ma66ce9d38ec67e3386f0bcd84676245c2b6910bb[m readme hierarchy
+[33m533d0269b41e2c5f8b3e75a95cb0d3ff189a4607[m spacing
+[33m32ad7eb4f3995da1471cff1a001ee0d53607f795[m Move site name and description to config.yml
+[33me748f026ed9d265a2c4a3315865e37ecd221dbe5[m le accuracy
+[33m82f1119cb257aff00ff7a978589c55fdf7c67304[m Fix up related posts spacing and ensure it's theme-able
+[33me2a4914cf9b89006d7c50822088ec4117fab3c17[m Add ToC to the CSS; use config.yml var for version; add reverse layout option (including docs in readme)
+[33m9a0640ba1814987fc7143cb482ff979e81b7a035[m Remove dupe favicon
+[33m11a34b1e020032515810921187408db537db4801[m readme overhaul, including fix for #15
+[33m29a908f90f103b6912196182c0da247fcc4c2888[m Add theme support with eight starter themes based on base16
+[33me260e574e8562d751152261588ced557f056db1a[m Rewrite the CSS's headers and responsive code for a more streamlined and more scannable setup
+[33m8ee2ce9765c008ac28af4f86658885c411111adf[m Nuke extraneous use of box-sizing
+[33m2122d20505c0c274ec635e4416cfa586ccd26b40[m Fixes #13 and nullifies #14: Remove margin from parent .posts and instead only apply it to .post
+[33mc8d1a6615c98a960876316099a4ad8eb3b3ec79f[m heavier headings for contrast with body content
+[33maff128658572b8d129ab0fc616d1d87273351035[m improve example code and styles
+[33m45ea9cfd9e79e8199466d0963bdb514a9f9b3122[m Merge pull request #10 from swirlycheetah/master
+[33m4b14dd59a2ae6cfa0250e54a0f854739b10b2079[m Merge pull request #16 from thebinarypenguin/master
+[33m8c0beef9d1afce8880278303c1d9ad1c873b0d4e[m Replace semicolon with comma in meta viewport tag
+[33m55892c35f61cfb01513a61242a0bcd2de6ef9d24[m adding example of syntax highlighting in post
+[33md158bf5ca8e103b032ebe3d51386396d6c7e1d1c[m adding syntax highlighting stylesheet from jekyll default theme
+[33ma3aad5ed6f77dd99a656d28b16380ae91bf760aa[m Merge pull request #9 from parkr/patch-1
+[33m3f5a2f436c1b8141ac8402a6ee460788f355d569[m Use site.url in atom.xml instead of "http://markdotto.com"
+[33m6c8081430319413a6b191e630e546d9c5bfe5920[m remove padding on left of colophon links
+[33m37c7e61cdd5aaa6822f1756e24afb71c4ae87bdc[m fixes #6: don't reset ul and ol padding
+[33mb36da29b6b263425cef7e29b530954f7f9f3feac[m Add 404 page template for GitHub Pages; generalize .lead
+[33m16ecc7d21dae4d7e083918629a328b4f7cb05c1a[m update related posts to be styled better (requires markup changes)
+[33m977ffb2915fe6e7906fe2ec2017a4a4d867839f9[m Merge pull request #2 from benbalter/globals
+[33m584068865c2051572e0eae63d7138d83ebfc364b[m tracking
+[33m7f2d7ce1703d19d57c4f6e34a392183b3224fd9c[m releases download link
+[33m7a33febdcbdebd652df055c13839c86294f96342[m abstract site globals
+[33mc979e4161aad3c765bc86703e0c4bc4b7e0a3791[m[33m ([m[1;33mtag: v1.0.0[m[33m)[m correct link
+[33m6a157e7488c2df475b3467128aba2b3eaa52ed8f[m nuke pygments
+[33m686cc8fc43cc9b02872074e8e4a03e548e8cbd9a[m screenshot in readme
+[33me41d366ffac5125a343f3906dabf51b45390b81e[m drop type on css links
+[33m5f31ef83db737a7ed426a169c4db75c2ce70c8d9[m links
+[33m91e97e55cefb68a16a815eefd6c9d18aa619c48e[m icons, rss link
+[33mc52a3317c494345876b491ae0452bad5549177b4[m better banner
+[33m39e0023bcfcf3db3b20bf72fc2bc0b278b73acb0[m hella fixes
+[33mfc96fc3e8f3f7b8370a0f8ca98a5b27c8ac38cf1[m add cname
+[33m8bd5d0e90980637fdec85652df50b76085b5cdbf[m Remove site and hide it via gitignore
+[33mf5fc8891f8bf7da0360e2ea2b8995d10b4501575[m dat comma
+[33m98f6c70df55a0b85bbc69175ebae2fbc32dd4342[m language tweaks, update readme, add license
+[33m2901e3e94819daf033d14ee7e468d3d3fde45a38[m tighten things up, add license
+[33m26095412174655e29b7194701844b4aef877a2c0[m tighten up posts, edit placeholder post content
+[33mf08496f08709f987a92cdfac51e42e2729c7f5dc[m turn that masthead on it's side
+[33mb96d7c634161ad74f5a32d7e927bd8305f2f1f44[m First pass at the theme
