@@ -11,7 +11,7 @@ author: author2
 
 ## 主要问题；
 1. [open(),输入文件读取](http://www.runoob.com/python/python-func-open.html)
-2. [python库介绍]([https://blog.csdn.net/qq_26658517/article/details/8094872](https://www.cnblogs.com/maplered/p/7843232.html)2)
+2. [python库介绍](https://www.cnblogs.com/maplered/p/7843232.html)
 3. [time（）](http://www.runoob.com/python/att-time-time.html)
 4. [turtle（）](https://www.cnblogs.com/chen0307/articles/9645138.html)
 5. [id()](http://www.runoob.com/python/python-func-id.html)
