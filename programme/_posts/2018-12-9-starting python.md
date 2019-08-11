@@ -1,33 +1,13 @@
 ---
 layout: post
-title: 开辟python板块
+title: python
 description: >
-  python真好，一言不合就pip install。
+   python个人状态管理
 author: author2
 ---
-# python学习目标
-  *人生苦短，我用python。*
- {:.lead}
-
---------
-
-## 快速目录
-{:.no_toc}
-0. this unordered seed list will be replaced by toc as unordered list
-{:toc}
-
------------
-## 入门python
-  
-  >基于[菜鸟教程](http://www.runoob.com/python/python-tutorial.html)
-  
-  ### 最好能编写一次 `c++` ，再把它用 `python` 编写一遍。
-
-----
-## 爬虫（技术部）
-  
-
-----
-## 树莓派(电设)
-
-----
+* 学习时间：大一上 ~ 大一下
+* 自述水平：一般库函数较熟练，其他不熟练
+* 开发经验：非常少
+* 官方评级：二级
+* 用处方面：偶尔编程用来文件处理,也为ai做入门
+* 今后发展：偶尔使用

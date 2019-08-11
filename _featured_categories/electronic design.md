@@ -1,11 +1,11 @@
 ---
 layout: list
-title: electronic design
-slug: electronic
+title: Technology Corner
+slug: technology
 menu: true
 order: 2
 description: >
-  电信学院的为什么不好好打电设鸭？
+  没有伤痕累累，哪来皮糙肉厚，英雄自古多磨难
 accent_color: rgb(38,139,210)
 accent_image:
   background: rgb(32,32,32)

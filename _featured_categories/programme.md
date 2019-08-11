@@ -1,6 +1,6 @@
 ---
 layout: list
-title: programme
+title: Programme
 slug: programme
 menu: true
 order: 3
