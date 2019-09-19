@@ -65,22 +65,26 @@ void CAN_Transmit(uint8_t data[])
 
 **接受部分**
 
-* 过滤器配置（这个基本上就是没有过滤，亲亲，这边建议直接CTRLCV呢）
+* 过滤器配置（这里全部接受）
 
 ~~~c
 
 void CAN_FilterInit()
 {
-	  CAN_FilterTypeDef can_filter_st;
-	  can_filter_st.FilterActivation = ENABLE;
-	  can_filter_st.FilterMode = CAN_FILTERMODE_IDMASK;
-	  can_filter_st.FilterScale = CAN_FILTERSCALE_32BIT;
-	  can_filter_st.FilterIdHigh = 0x0000;
-	  can_filter_st.FilterIdLow = 0x0000;
-	  can_filter_st.FilterMaskIdHigh = 0x0000;
-	  can_filter_st.FilterMaskIdLow = 0x0000;
-	  can_filter_st.FilterBank = 0;
-	  can_filter_st.FilterFIFOAssignment = CAN_RX_FIFO0;
+	  CAN_FilterTypeDef can_filter_st;						//定义CAN报文句柄
+	  can_filter_st.FilterActivation = ENABLE;				//启用过滤器
+	  can_filter_st.FilterMode = CAN_FILTERMODE_IDMASK;		//启用过滤器掩码形式
+	  can_filter_st.FilterScale = CAN_FILTERSCALE_32BIT;	//指定过滤器范围
+
+
+	  can_filter_st.FilterIdHigh = 0x0000;					//高位全部0
+	  can_filter_st.FilterIdLow = 0x0000;					//低位全部0
+	  can_filter_st.FilterMaskIdHigh = 0x0000;				//掩码高位都不检测
+	  can_filter_st.FilterMaskIdLow = 0x0000;				//掩码低位都不检测
+
+
+	  can_filter_st.FilterBank = 0;							//过滤器编码，单个CAN 0~13
+	  can_filter_st.FilterFIFOAssignment = CAN_RX_FIFO0;	//被配置的邮箱
 	  HAL_CAN_ConfigFilter(&hcan1, &can_filter_st);
 	return ;
 }
