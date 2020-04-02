@@ -3,7 +3,7 @@ layout: post
 title: electric guitar
 description: >
   谁还不是一个摇滚少年呢？
-author: author2
+author: author1
 ---
 
 # electric guitar

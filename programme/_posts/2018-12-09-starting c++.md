@@ -4,7 +4,7 @@ title: C/C++
 description: >
   C/C++个人状态管理
 
-author: author2
+author: author1
 ---
 * 学习时间：小学五年级~现在
 * 自述水平：程序工程，算法实现，较熟练库函数

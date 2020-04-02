@@ -3,7 +3,7 @@ layout: post
 title: python
 description: >
    python个人状态管理
-author: author2
+author: author1
 ---
 
 * 学习时间：大一上 ~ 大一下

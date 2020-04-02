@@ -3,7 +3,7 @@ layout: post
 title: 开辟技术开发板块
 description: >
   学习各种各样奇奇怪怪的知识和做奇奇怪怪的东西
-author: author2
+author: author1
 ---
 # 文章类型
 

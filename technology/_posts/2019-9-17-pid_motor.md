@@ -3,7 +3,7 @@ layout: post
 title: PID调控单C610电调电机（CAN和PID实操，还有用STM32IDE的好处）
 description: >
   简单的用CAN的收发电机，用STM32IDE调参运用其中的曲线和改参功能，码云地址https://gitee.com/buffzhou/PID_motor
-author: author2
+author: author1
 ---
 # PID调控单C610电调电机（CAN和PID实操，STM32IDE的图像和现场改参）
 

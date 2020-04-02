@@ -3,7 +3,7 @@ layout: post
 title: python二级模考1
 description: >
   python二级模考第二季1错题集（https://www.python123.io/拥有版权）
-author: author2
+author: author1
 ---
 
 总分 78
