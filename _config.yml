@@ -16,7 +16,7 @@ baseurl:               ''
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang:                  en
+lang:                  zh-cn
 
 # The title of your blog. Used in the sidebar and the browser tab.
 title:                 BUFF's Blog
@@ -24,7 +24,7 @@ title:                 BUFF's Blog
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  "电子设计 无协技术部 网络队 日常".
+  "多端随身的优雅文库".
 
 # A shorter description for the sidebar.
 tagline:               >

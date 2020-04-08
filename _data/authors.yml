@@ -8,7 +8,7 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             
-    华南理工在读大学僧，随便搞搞电子设计，现在在华南虎战队快乐搬砖。微信buffdewechat，邮箱buffdemail@163.com
+    华南理工在读大学僧，随便搞搞电子设计，现在在华南虎战队快乐搬砖，也搞搞web后端。微信buffdewechat，邮箱buffdemail@163.com
 
   # This photo will be used in the about section
   picture:
@@ -25,7 +25,6 @@ author1:
     #twitter:         <username>
     github:          buffzhou
     email:           buffdemail@163.com
-    rss:             http://news.ifeng.com/rss
     # facebook:        <username>
     # google:          <number>
     # vk:              <username>
@@ -63,30 +62,29 @@ author1:
 
 
 author2:
-  name:              XXX
-  email:             XXX
+  name:              Grace
+  email:             1969431978@qq.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             
-    华南理工在读，随便搞搞电子设计，现在在华南虎战队快乐搬砖。微信buffdewechat，邮箱buffdemail@163.com
+    佛系菜鸡工具人。邮箱1969431978@qq.com
 
   # This photo will be used in the about section
   picture:
-    path:            /assets/img/me128.jpg
+    path:            /assets/img/grace128.jpg
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:            /assets/img/me128.jpg
-      2x:            /assets/img/me256.jpg
+      1x:            /assets/img/grace128.jpg
+      2x:            /assets/img/grace256.jpg
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
     #twitter:         <username>
-    github:          buffzhou
-    email:           buffdemail@163.com
-    rss:             http://news.ifeng.com/rss
+    github:          littlebuff
+    email:           1969431978@qq.com
     # facebook:        <username>
     # google:          <number>
     # vk:              <username>
