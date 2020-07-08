@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 开辟技术开发板块
+title: 开辟电子技术开发板块
 description: >
   学习各种各样奇奇怪怪的知识和做奇奇怪怪的东西
 author: author1
@@ -12,6 +12,5 @@ author: author1
 4. 数学基础理论：线性代数、概率论与数理统计、微积分、最优化
 5. 机器学习基础理论（主要是深度学习）
 6. 机器学习库熟悉（tensorflow或pytorch等）
-7. 编程语言（C、C++、python等）
-   
+
 ---
